@@ -1,0 +1,1190 @@
+{
+ "eras": [
+  {
+   "id": "prehistory",
+   "name": "史前與原住民族",
+   "english": "Prehistory and Indigenous peoples",
+   "years": "before 1600",
+   "summary": "Thousands of years of Austronesian settlement before written records.",
+   "paragraphs": [
+    "People have lived on Taiwan for at least 20,000 years. The oldest known remains belong to the Changbin culture ([[長濱文化]]) on the east coast, a Stone Age people who lived by hunting, fishing and gathering.",
+    "About 6,000 years ago, farmers of the Dabenkeng culture ([[大坌坑文化]]) appeared. Many scholars see them as ancestors of the Austronesian peoples ([[南島語族]]), whose languages later spread from Taiwan across the Pacific and Indian Oceans, as far as Madagascar, Hawaii and New Zealand. The Beinan site ([[卑南遺址]]) near Taitung, with its slate coffins and jade ornaments, is the largest prehistoric village found in Taiwan.",
+    "When Europeans arrived in the 1600s, the island was home to many Indigenous peoples ([[原住民族]]). The plains peoples ([[平埔族]]) of the west were the first to meet traders and settlers. Today 16 Indigenous peoples are officially recognised, among them the Amis ([[阿美族]]), the largest, and the Atayal ([[泰雅族]])."
+   ],
+   "terms": [
+    "長濱文化",
+    "大坌坑文化",
+    "南島語族",
+    "卑南遺址",
+    "原住民族",
+    "平埔族",
+    "阿美族",
+    "泰雅族"
+   ]
+  },
+  {
+   "id": "dutch",
+   "name": "荷西時期",
+   "english": "Dutch and Spanish Formosa",
+   "years": "1624–1662",
+   "summary": "European trading posts in the south and north.",
+   "paragraphs": [
+    "Portuguese sailors are said to have called the island Ilha Formosa, \"beautiful island\" ([[福爾摩沙]]). The first Europeans to settle were the Dutch East India Company ([[荷蘭東印度公司]]), which in 1624 built Fort Zeelandia ([[熱蘭遮城]]) at Tayouan ([[大員]]), today's Anping in Tainan. The name Taiwan probably comes from Tayouan.",
+    "The Dutch ruled the southwest as a trading colony, exporting deer hides and sugar and bringing in farm workers from Fujian. They built Fort Provintia, today's Chihkan Tower ([[赤崁樓]]). Missionaries wrote the Siraya language in Latin letters; contracts in this script, the Sinckan manuscripts ([[新港文書]]), were used for over a century. Chinese farmers rose against heavy taxes under Guo Huaiyi ([[郭懷一]]) in 1652; the revolt was crushed.",
+    "Spain held the north from 1626, around Keelung and Tamsui, until the Dutch drove them out in 1642."
+   ],
+   "terms": [
+    "福爾摩沙",
+    "荷蘭東印度公司",
+    "熱蘭遮城",
+    "大員",
+    "赤崁樓",
+    "新港文書",
+    "郭懷一"
+   ]
+  },
+  {
+   "id": "tungning",
+   "name": "明鄭時期",
+   "english": "The Kingdom of Tungning",
+   "years": "1662–1683",
+   "summary": "Koxinga drives out the Dutch; Ming loyalists rule from Tainan.",
+   "paragraphs": [
+    "As the Ming dynasty fell to the Qing, the Ming loyalist commander Koxinga ([[鄭成功]]) crossed from Xiamen with his fleet in 1661. After a nine-month siege, the Dutch surrendered Fort Zeelandia in early 1662. Koxinga died a few months later, but he is still honoured in Taiwan as \"Lord of the Imperial Surname\" ([[國姓爺]]).",
+    "His son Zheng Jing ([[鄭經]]) ruled the Kingdom of Tungning ([[東寧王國]]) from Tainan. His adviser Chen Yonghua ([[陳永華]]) brought Chinese government and schooling: Tainan's Confucius Temple ([[孔廟]]), built in 1666, is known as \"Taiwan's first school\".",
+    "In 1683 the Qing admiral Shi Lang ([[施琅]]), a former officer of Koxinga, won the battle of Penghu, and Tungning surrendered."
+   ],
+   "terms": [
+    "鄭成功",
+    "國姓爺",
+    "鄭經",
+    "東寧王國",
+    "陳永華",
+    "孔廟",
+    "施琅"
+   ]
+  },
+  {
+   "id": "qing",
+   "name": "清領時期",
+   "english": "Qing rule",
+   "years": "1683–1895",
+   "summary": "Two centuries of migration from Fujian and Guangdong, frontier revolts, and late modernisation.",
+   "paragraphs": [
+    "The Qing made Taiwan a prefecture ([[臺灣府]]) of Fujian. For a long time it limited migration ([[渡臺禁令]]), but people from Fujian and Guangdong kept crossing the dangerous strait. The saying \"crossing from Tangshan to Taiwan\" ([[唐山過臺灣]]) remembers them. Many were single young men without land or family, called luohanjiao ([[羅漢腳]]).",
+    "The frontier was hard to govern: \"a small revolt every three years, a big one every five\". The largest, led by Lin Shuangwen ([[林爽文]]) in 1786, took more than a year to put down. Settlers from different places, such as Zhangzhou, Quanzhou and Hakka villages, also fought each other in armed feuds ([[械鬥]]).",
+    "After 1860 Taiwan's ports were opened to foreign trade ([[開港通商]]), and tea, sugar and camphor ([[樟腦]]) became major exports. The Canadian missionary George Leslie Mackay ([[馬偕]]) founded churches, schools and a hospital in Tamsui. After Japan invaded the south in the Mudan incident ([[牡丹社事件]]) of 1874, the Qing took Taiwan more seriously: Shen Baozhen ([[沈葆楨]]) strengthened its defences, and in 1885 Taiwan became a province ([[臺灣省]]). Its first governor, Liu Mingchuan ([[劉銘傳]]), built Taiwan's first railway and telegraph lines."
+   ],
+   "terms": [
+    "臺灣府",
+    "渡臺禁令",
+    "唐山過臺灣",
+    "羅漢腳",
+    "林爽文",
+    "械鬥",
+    "開港通商",
+    "樟腦",
+    "馬偕",
+    "牡丹社事件",
+    "沈葆楨",
+    "臺灣省",
+    "劉銘傳"
+   ]
+  },
+  {
+   "id": "japanese",
+   "name": "日治時期",
+   "english": "Japanese rule",
+   "years": "1895–1945",
+   "summary": "Fifty years as Japan's first colony: resistance, modernisation and assimilation.",
+   "paragraphs": [
+    "After losing the First Sino-Japanese War, the Qing gave Taiwan to Japan in the Treaty of Shimonoseki ([[馬關條約]]) of 1895. Local leaders declared the short-lived Republic of Formosa ([[臺灣民主國]]), and armed resistance went on for years.",
+    "Japan ruled through a Governor-General ([[總督府]]), whose office building in Taipei is today's Presidential Office. Under officials like Gotō Shinpei ([[後藤新平]]), Taiwan got a census, land surveys, public health measures, and the north–south railway. The engineer Hatta Yoichi ([[八田與一]]) built the Chianan irrigation system ([[嘉南大圳]]), which turned the southern plain into farmland.",
+    "Indigenous resistance continued in the mountains. In the Musha (Wushe) incident ([[霧社事件]]) of 1930, Seediq warriors led by Mona Rudao ([[莫那魯道]]) attacked a Japanese school sports day; the army's revenge killed hundreds. In the 1920s, Taiwanese intellectuals such as Chiang Wei-shui ([[蔣渭水]]) and Lin Hsien-tang ([[林獻堂]]) campaigned peacefully for self-rule through the Taiwanese Cultural Association ([[臺灣文化協會]]). From 1937, during the war with China, the Kōminka movement ([[皇民化運動]]) pushed Japanese language, names and religion."
+   ],
+   "terms": [
+    "馬關條約",
+    "臺灣民主國",
+    "總督府",
+    "後藤新平",
+    "八田與一",
+    "嘉南大圳",
+    "霧社事件",
+    "莫那魯道",
+    "蔣渭水",
+    "林獻堂",
+    "臺灣文化協會",
+    "皇民化運動"
+   ]
+  },
+  {
+   "id": "postwar",
+   "name": "戰後與二二八",
+   "english": "The end of the war and the 228 Incident",
+   "years": "1945–1949",
+   "summary": "The Republic of China takes over; 228 and the move of the ROC government to Taiwan.",
+   "paragraphs": [
+    "After Japan's surrender, the Republic of China ([[中華民國]]), led by the Nationalist Party, the KMT ([[國民黨]]), took over Taiwan in October 1945. The ROC calls this the Retrocession ([[臺灣光復]]). Many Taiwanese welcomed it at first, but the new administration under Chen Yi ([[陳儀]]) was soon resented for corruption, inflation and discrimination against locals.",
+    "On 27 February 1947, agents in Taipei beat a woman selling untaxed cigarettes and shot a bystander. Protests spread across the island the next day. The government sent troops from China, and thousands of people, including many of Taiwan's educated elite, were killed or disappeared. The 228 Incident ([[二二八事件]]) was not discussed openly for forty years; 28 February is now Peace Memorial Day.",
+    "Meanwhile the KMT was losing the Chinese Civil War ([[國共內戰]]) to the Communists. In 1949 the ROC government moved to Taipei, together with one to two million soldiers and civilians. That October, the defeat of a Communist landing on Kinmen at Guningtou ([[古寧頭戰役]]) helped keep Kinmen and Taiwan under the ROC."
+   ],
+   "terms": [
+    "中華民國",
+    "國民黨",
+    "臺灣光復",
+    "陳儀",
+    "二二八事件",
+    "國共內戰",
+    "古寧頭戰役"
+   ]
+  },
+  {
+   "id": "martial",
+   "name": "戒嚴與白色恐怖",
+   "english": "Martial law and the White Terror",
+   "years": "1949–1987",
+   "summary": "Thirty-eight years of martial law; diplomatic isolation; the rise of the opposition.",
+   "paragraphs": [
+    "From 1949 to 1987 Taiwan was under martial law ([[戒嚴]]), one of the longest periods in modern history. Chiang Kai-shek ([[蔣介石]]) ruled as president until his death in 1975, and the ROC still claimed to be the government of all China. In the White Terror ([[白色恐怖]]), tens of thousands of people were imprisoned for suspected communism or support for Taiwanese independence, many on Green Island ([[綠島]]). The editor Lei Chen ([[雷震]]) was jailed in 1960 for trying to start an opposition party.",
+    "Taiwan stayed on the front line of the Cold War. In 1958 China shelled Kinmen for weeks in the 823 Artillery Battle ([[八二三砲戰]]). Families who came with the army often lived in military villages ([[眷村]]); the difference between \"mainlanders\" ([[外省人]]) and those already in Taiwan ([[本省人]]) shaped politics for decades.",
+    "In 1971 the ROC left the United Nations ([[退出聯合國]]) as the seat of China passed to the People's Republic, and in 1979 the United States cut official ties ([[中美斷交]]). The US Congress then passed the Taiwan Relations Act ([[臺灣關係法]]). Later that year, a human rights rally organised by the opposition magazine Formosa in Kaohsiung ended in arrests: the Formosa Incident ([[美麗島事件]]). Its defendants and their lawyers became leaders of the opposition ([[黨外]])."
+   ],
+   "terms": [
+    "戒嚴",
+    "蔣介石",
+    "白色恐怖",
+    "綠島",
+    "雷震",
+    "八二三砲戰",
+    "眷村",
+    "外省人",
+    "本省人",
+    "退出聯合國",
+    "中美斷交",
+    "臺灣關係法",
+    "美麗島事件",
+    "黨外"
+   ]
+  },
+  {
+   "id": "miracle",
+   "name": "經濟奇蹟",
+   "english": "The economic miracle",
+   "years": "1950s–1990s",
+   "summary": "Land reform, export factories and the chip industry.",
+   "paragraphs": [
+    "Land reform in the early 1950s, including rent reduction ([[三七五減租]]) and \"land to the tiller\" ([[耕者有其田]]), turned tenants into owners and freed capital for industry. With US aid ([[美援]]), Taiwan moved from farming to light industry.",
+    "In 1966 Kaohsiung opened one of the world's first export processing zones ([[加工出口區]]), and \"Made in Taiwan\" toys, textiles and electronics spread around the world. In the 1970s Premier Chiang Ching-kuo ([[蔣經國]]) launched the Ten Major Construction Projects ([[十大建設]]): the first freeway, a new airport, ports, steel mills and shipyards.",
+    "The government then backed high technology. Hsinchu Science Park ([[新竹科學園區]]) opened in 1980, and in 1987 Morris Chang ([[張忠謀]]) founded TSMC ([[台積電]]), now the world's largest chip maker. With South Korea, Hong Kong and Singapore, Taiwan was one of the Four Asian Tigers ([[亞洲四小龍]])."
+   ],
+   "terms": [
+    "三七五減租",
+    "耕者有其田",
+    "美援",
+    "加工出口區",
+    "蔣經國",
+    "十大建設",
+    "新竹科學園區",
+    "張忠謀",
+    "台積電",
+    "亞洲四小龍"
+   ]
+  },
+  {
+   "id": "democracy",
+   "name": "民主化",
+   "english": "Democratisation",
+   "years": "1986–1996",
+   "summary": "From one-party rule to the first direct presidential election.",
+   "paragraphs": [
+    "In 1986 opposition activists founded the Democratic Progressive Party ([[民主進步黨]]) while parties were still banned; the government tolerated it. The next year Chiang Ching-kuo lifted martial law ([[解嚴]]), and in 1988 the ban on new newspapers ([[報禁]]) ended. In 1989 the publisher Nylon Deng ([[鄭南榕]]) set himself on fire rather than be arrested; his death day, 7 April, is now Freedom of Speech Day.",
+    "Lee Teng-hui ([[李登輝]]), the first Taiwan-born president, took over in 1988. In March 1990, thousands of students occupied the square in front of the Chiang Kai-shek Memorial Hall in the Wild Lily student movement ([[野百合學運]]). Lee met their demands: the members of parliament elected in China in 1947, who had never faced re-election, retired, and the whole legislature was elected in Taiwan in 1991–1992. National Health Insurance ([[全民健保]]) started in 1995.",
+    "In 1996 Taiwan held its first direct presidential election ([[總統直選]]). China fired missiles into the sea near Taiwan in the months before ([[臺海飛彈危機]]), and the US sent aircraft carriers. Lee won with 54% of the vote."
+   ],
+   "terms": [
+    "民主進步黨",
+    "解嚴",
+    "報禁",
+    "鄭南榕",
+    "李登輝",
+    "野百合學運",
+    "全民健保",
+    "總統直選",
+    "臺海飛彈危機"
+   ]
+  },
+  {
+   "id": "today",
+   "name": "當代臺灣",
+   "english": "Contemporary Taiwan",
+   "years": "1999–today",
+   "summary": "Peaceful changes of power, protests and new rights.",
+   "paragraphs": [
+    "On 21 September 1999, the Chi-Chi earthquake ([[九二一大地震]]) killed about 2,400 people in central Taiwan and led to stricter building rules.",
+    "In 2000 Chen Shui-bian ([[陳水扁]]) of the DPP won the presidency, ending more than fifty years of KMT rule: the first peaceful transfer of power between parties ([[政黨輪替]]). Ma Ying-jeou ([[馬英九]]) of the KMT won in 2008 and brought closer economic ties with China. In 2014 students occupied the Legislative Yuan for over three weeks to stop a services trade agreement with China: the Sunflower Movement ([[太陽花學運]]).",
+    "Tsai Ing-wen ([[蔡英文]]) became Taiwan's first woman president in 2016. In 2019 Taiwan became the first place in Asia to legalise same-sex marriage ([[同性婚姻]]). Lai Ching-te ([[賴清德]]) of the DPP followed as president in 2024."
+   ],
+   "terms": [
+    "九二一大地震",
+    "陳水扁",
+    "政黨輪替",
+    "馬英九",
+    "太陽花學運",
+    "蔡英文",
+    "同性婚姻",
+    "賴清德"
+   ]
+  }
+ ],
+ "words": [
+  {
+   "hanzi": "長濱文化",
+   "zhuyin": "ㄔㄤˊ ㄅㄧㄣ ㄨㄣˊ ㄏㄨㄚˋ",
+   "pinyin": "cháng bīn wén huà",
+   "english": "Changbin culture",
+   "category": "史前與原住民族 Prehistory and Indigenous peoples",
+   "rank": 0,
+   "tag": "歷史",
+   "note": "Taiwan's oldest known culture (Old Stone Age), named after Changbin in Taitung."
+  },
+  {
+   "hanzi": "大坌坑文化",
+   "zhuyin": "ㄉㄚˋ ㄅㄣˋ ㄎㄥ ㄨㄣˊ ㄏㄨㄚˋ",
+   "pinyin": "dà bèn kēng wén huà",
+   "english": "Dabenkeng culture",
+   "category": "史前與原住民族 Prehistory and Indigenous peoples",
+   "rank": 1,
+   "tag": "歷史",
+   "note": "Early farming culture, about 6,000 years ago."
+  },
+  {
+   "hanzi": "南島語族",
+   "zhuyin": "ㄋㄢˊ ㄉㄠˇ ㄩˇ ㄗㄨˊ",
+   "pinyin": "nán dǎo yǔ zú",
+   "english": "Austronesian peoples",
+   "category": "史前與原住民族 Prehistory and Indigenous peoples",
+   "rank": 2,
+   "tag": "歷史",
+   "note": "A language family of about 400 million speakers; Taiwan is thought to be its homeland."
+  },
+  {
+   "hanzi": "卑南遺址",
+   "zhuyin": "ㄅㄟ ㄋㄢˊ ㄧˊ ㄓˇ",
+   "pinyin": "bēi nán yí zhǐ",
+   "english": "Beinan archaeological site",
+   "category": "史前與原住民族 Prehistory and Indigenous peoples",
+   "rank": 3,
+   "tag": "歷史",
+   "note": "Neolithic village near Taitung with over 1,500 slate coffins."
+  },
+  {
+   "hanzi": "原住民族",
+   "zhuyin": "ㄩㄢˊ ㄓㄨˋ ㄇㄧㄣˊ ㄗㄨˊ",
+   "pinyin": "yuán zhù mín zú",
+   "english": "Indigenous peoples",
+   "category": "史前與原住民族 Prehistory and Indigenous peoples",
+   "rank": 4,
+   "tag": "歷史",
+   "note": "The official term since 1997; individuals are 原住民."
+  },
+  {
+   "hanzi": "平埔族",
+   "zhuyin": "ㄆㄧㄥˊ ㄆㄨˇ ㄗㄨˊ",
+   "pinyin": "píng pǔ zú",
+   "english": "plains Indigenous peoples",
+   "category": "史前與原住民族 Prehistory and Indigenous peoples",
+   "rank": 5,
+   "tag": "歷史",
+   "note": "Peoples of the western plains, such as the Siraya; most were assimilated during Qing rule."
+  },
+  {
+   "hanzi": "阿美族",
+   "zhuyin": "ㄚ ㄇㄟˇ ㄗㄨˊ",
+   "pinyin": "ā měi zú",
+   "english": "Amis people",
+   "category": "史前與原住民族 Prehistory and Indigenous peoples",
+   "rank": 6,
+   "tag": "歷史",
+   "note": "The largest Indigenous people, on the east coast; known for the harvest festival 豐年祭."
+  },
+  {
+   "hanzi": "泰雅族",
+   "zhuyin": "ㄊㄞˋ ㄧㄚˇ ㄗㄨˊ",
+   "pinyin": "tài yǎ zú",
+   "english": "Atayal people",
+   "category": "史前與原住民族 Prehistory and Indigenous peoples",
+   "rank": 7,
+   "tag": "歷史",
+   "note": "Mountain people of the north, known for facial tattoos."
+  },
+  {
+   "hanzi": "福爾摩沙",
+   "zhuyin": "ㄈㄨˊ ㄦˇ ㄇㄛˊ ㄕㄚ",
+   "pinyin": "fú ěr mó shā",
+   "english": "Formosa",
+   "category": "荷西時期 Dutch and Spanish Formosa",
+   "rank": 8,
+   "tag": "歷史",
+   "note": "From Portuguese \"beautiful island\"; still used as a poetic name for Taiwan."
+  },
+  {
+   "hanzi": "荷蘭東印度公司",
+   "zhuyin": "ㄏㄜˊ ㄌㄢˊ ㄉㄨㄥ ㄧㄣˋ ㄉㄨˋ ㄍㄨㄥ ㄙ",
+   "pinyin": "hé lán dōng yìn dù gōng sī",
+   "english": "Dutch East India Company (VOC)",
+   "category": "荷西時期 Dutch and Spanish Formosa",
+   "rank": 9,
+   "tag": "歷史"
+  },
+  {
+   "hanzi": "熱蘭遮城",
+   "zhuyin": "ㄖㄜˋ ㄌㄢˊ ㄓㄜ ㄔㄥˊ",
+   "pinyin": "rè lán zhē chéng",
+   "english": "Fort Zeelandia",
+   "category": "荷西時期 Dutch and Spanish Formosa",
+   "rank": 10,
+   "tag": "歷史",
+   "note": "The Dutch headquarters in Anping, Tainan; also called 安平古堡."
+  },
+  {
+   "hanzi": "大員",
+   "zhuyin": "ㄉㄚˋ ㄩㄢˊ",
+   "pinyin": "dà yuán",
+   "english": "Tayouan",
+   "category": "荷西時期 Dutch and Spanish Formosa",
+   "rank": 11,
+   "tag": "歷史",
+   "note": "A sandbar at today's Anping; the likely origin of the name Taiwan."
+  },
+  {
+   "hanzi": "赤崁樓",
+   "zhuyin": "ㄔˋ ㄎㄢˇ ㄌㄡˊ",
+   "pinyin": "chì kǎn lóu",
+   "english": "Chihkan Tower (Fort Provintia)",
+   "category": "荷西時期 Dutch and Spanish Formosa",
+   "rank": 12,
+   "tag": "歷史",
+   "note": "Built by the Dutch in 1653 in Tainan; rebuilt in Chinese style later."
+  },
+  {
+   "hanzi": "新港文書",
+   "zhuyin": "ㄒㄧㄣ ㄍㄤˇ ㄨㄣˊ ㄕㄨ",
+   "pinyin": "xīn gǎng wén shū",
+   "english": "Sinckan manuscripts",
+   "category": "荷西時期 Dutch and Spanish Formosa",
+   "rank": 13,
+   "tag": "歷史",
+   "note": "Land contracts in the Siraya language, written in Latin letters."
+  },
+  {
+   "hanzi": "郭懷一",
+   "zhuyin": "ㄍㄨㄛ ㄏㄨㄞˊ ㄧ",
+   "pinyin": "guō huái yī",
+   "english": "Guo Huaiyi",
+   "category": "荷西時期 Dutch and Spanish Formosa",
+   "rank": 14,
+   "tag": "歷史",
+   "note": "Led the 1652 uprising of Chinese settlers against the Dutch."
+  },
+  {
+   "hanzi": "鄭成功",
+   "zhuyin": "ㄓㄥˋ ㄔㄥˊ ㄍㄨㄥ",
+   "pinyin": "zhèng chéng gōng",
+   "english": "Koxinga (Zheng Chenggong)",
+   "category": "明鄭時期 The Kingdom of Tungning",
+   "rank": 15,
+   "tag": "歷史",
+   "note": "Ming loyalist who ended Dutch rule in 1662. Born in Japan to a Chinese father and Japanese mother."
+  },
+  {
+   "hanzi": "國姓爺",
+   "zhuyin": "ㄍㄨㄛˊ ㄒㄧㄥˋ ㄧㄝˊ",
+   "pinyin": "guó xìng yé",
+   "english": "\"Lord of the Imperial Surname\"",
+   "category": "明鄭時期 The Kingdom of Tungning",
+   "rank": 16,
+   "tag": "歷史",
+   "note": "Koxinga's title, given by a Ming emperor; \"Koxinga\" comes from its Hokkien pronunciation."
+  },
+  {
+   "hanzi": "鄭經",
+   "zhuyin": "ㄓㄥˋ ㄐㄧㄥ",
+   "pinyin": "zhèng jīng",
+   "english": "Zheng Jing",
+   "category": "明鄭時期 The Kingdom of Tungning",
+   "rank": 17,
+   "tag": "歷史",
+   "note": "Koxinga's son, ruler of Tungning 1662–1681."
+  },
+  {
+   "hanzi": "東寧王國",
+   "zhuyin": "ㄉㄨㄥ ㄋㄧㄥˊ ㄨㄤˊ ㄍㄨㄛˊ",
+   "pinyin": "dōng níng wáng guó",
+   "english": "Kingdom of Tungning",
+   "category": "明鄭時期 The Kingdom of Tungning",
+   "rank": 18,
+   "tag": "歷史",
+   "note": "The Zheng family's state in Taiwan, 1661–1683."
+  },
+  {
+   "hanzi": "陳永華",
+   "zhuyin": "ㄔㄣˊ ㄩㄥˇ ㄏㄨㄚˊ",
+   "pinyin": "chén yǒng huá",
+   "english": "Chen Yonghua",
+   "category": "明鄭時期 The Kingdom of Tungning",
+   "rank": 19,
+   "tag": "歷史",
+   "note": "Chief adviser of Zheng Jing; founded schools and the Confucius Temple."
+  },
+  {
+   "hanzi": "孔廟",
+   "zhuyin": "ㄎㄨㄥˇ ㄇㄧㄠˋ",
+   "pinyin": "kǒng miào",
+   "english": "Confucius Temple",
+   "category": "明鄭時期 The Kingdom of Tungning",
+   "rank": 20,
+   "tag": "歷史",
+   "note": "Tainan's, from 1666, is Taiwan's oldest."
+  },
+  {
+   "hanzi": "施琅",
+   "zhuyin": "ㄕ ㄌㄤˊ",
+   "pinyin": "shī láng",
+   "english": "Shi Lang",
+   "category": "明鄭時期 The Kingdom of Tungning",
+   "rank": 21,
+   "tag": "歷史",
+   "note": "Qing admiral who took Taiwan in 1683."
+  },
+  {
+   "hanzi": "臺灣府",
+   "zhuyin": "ㄊㄞˊ ㄨㄢ ㄈㄨˇ",
+   "pinyin": "tái wān fǔ",
+   "english": "Taiwan Prefecture",
+   "category": "清領時期 Qing rule",
+   "rank": 22,
+   "tag": "歷史",
+   "note": "Seat in today's Tainan, which was the capital until the late 1800s."
+  },
+  {
+   "hanzi": "渡臺禁令",
+   "zhuyin": "ㄉㄨˋ ㄊㄞˊ ㄐㄧㄣˋ ㄌㄧㄥˋ",
+   "pinyin": "dù tái jìn lìng",
+   "english": "restrictions on crossing to Taiwan",
+   "category": "清領時期 Qing rule",
+   "rank": 23,
+   "tag": "歷史",
+   "note": "Qing rules limiting who could move to Taiwan, lifted in 1875."
+  },
+  {
+   "hanzi": "唐山過臺灣",
+   "zhuyin": "ㄊㄤˊ ㄕㄢ ㄍㄨㄛˋ ㄊㄞˊ ㄨㄢ",
+   "pinyin": "táng shān guò tái wān",
+   "english": "\"crossing from Tangshan to Taiwan\"",
+   "category": "清領時期 Qing rule",
+   "rank": 24,
+   "tag": "歷史",
+   "note": "唐山 here means mainland China; the phrase stands for the migration of the 1700s and 1800s."
+  },
+  {
+   "hanzi": "羅漢腳",
+   "zhuyin": "ㄌㄨㄛˊ ㄏㄢˋ ㄐㄧㄠˇ",
+   "pinyin": "luó hàn jiǎo",
+   "english": "luohanjiao (single drifter)",
+   "category": "清領時期 Qing rule",
+   "rank": 25,
+   "tag": "歷史",
+   "note": "Landless single migrant men, often blamed for unrest."
+  },
+  {
+   "hanzi": "林爽文",
+   "zhuyin": "ㄌㄧㄣˊ ㄕㄨㄤˇ ㄨㄣˊ",
+   "pinyin": "lín shuǎng wén",
+   "english": "Lin Shuangwen",
+   "category": "清領時期 Qing rule",
+   "rank": 26,
+   "tag": "歷史",
+   "note": "Led the largest uprising of Qing rule, 1786–1788."
+  },
+  {
+   "hanzi": "械鬥",
+   "zhuyin": "ㄒㄧㄝˋ ㄉㄡˋ",
+   "pinyin": "xiè dòu",
+   "english": "armed feud",
+   "category": "清領時期 Qing rule",
+   "rank": 27,
+   "tag": "歷史",
+   "note": "Fights between groups of settlers, e.g. Zhangzhou against Quanzhou people."
+  },
+  {
+   "hanzi": "開港通商",
+   "zhuyin": "ㄎㄞ ㄍㄤˇ ㄊㄨㄥ ㄕㄤ",
+   "pinyin": "kāi gǎng tōng shāng",
+   "english": "opening of ports to trade",
+   "category": "清領時期 Qing rule",
+   "rank": 28,
+   "tag": "歷史",
+   "note": "Tamsui, Keelung, Anping and Takao (Kaohsiung) opened after 1860."
+  },
+  {
+   "hanzi": "樟腦",
+   "zhuyin": "ㄓㄤ ㄋㄠˇ",
+   "pinyin": "zhāng nǎo",
+   "english": "camphor",
+   "category": "清領時期 Qing rule",
+   "rank": 29,
+   "tag": "歷史",
+   "note": "Taiwan was the world's largest producer in the late 1800s."
+  },
+  {
+   "hanzi": "馬偕",
+   "zhuyin": "ㄇㄚˇ ㄒㄧㄝˊ",
+   "pinyin": "mǎ xié",
+   "english": "George Leslie Mackay",
+   "category": "清領時期 Qing rule",
+   "rank": 30,
+   "tag": "歷史",
+   "note": "Canadian missionary in Tamsui from 1872; Mackay Memorial Hospital is named after him."
+  },
+  {
+   "hanzi": "牡丹社事件",
+   "zhuyin": "ㄇㄨˇ ㄉㄢ ㄕㄜˋ ㄕˋ ㄐㄧㄢˋ",
+   "pinyin": "mǔ dān shè shì jiàn",
+   "english": "Mudan incident",
+   "category": "清領時期 Qing rule",
+   "rank": 31,
+   "tag": "歷史",
+   "note": "1874 Japanese invasion of southern Taiwan, after shipwrecked sailors were killed."
+  },
+  {
+   "hanzi": "沈葆楨",
+   "zhuyin": "ㄕㄣˇ ㄅㄠˇ ㄓㄣ",
+   "pinyin": "shěn bǎo zhēn",
+   "english": "Shen Baozhen",
+   "category": "清領時期 Qing rule",
+   "rank": 32,
+   "tag": "歷史",
+   "note": "Qing official sent in 1874 to defend Taiwan."
+  },
+  {
+   "hanzi": "臺灣省",
+   "zhuyin": "ㄊㄞˊ ㄨㄢ ㄕㄥˇ",
+   "pinyin": "tái wān shěng",
+   "english": "Taiwan Province",
+   "category": "清領時期 Qing rule",
+   "rank": 33,
+   "tag": "歷史",
+   "note": "Created in 1885 (proclaimed in 1887)."
+  },
+  {
+   "hanzi": "劉銘傳",
+   "zhuyin": "ㄌㄧㄡˊ ㄇㄧㄥˊ ㄔㄨㄢˊ",
+   "pinyin": "liú míng chuán",
+   "english": "Liu Mingchuan",
+   "category": "清領時期 Qing rule",
+   "rank": 34,
+   "tag": "歷史",
+   "note": "First governor of Taiwan Province; modernised its defences, railways and post."
+  },
+  {
+   "hanzi": "馬關條約",
+   "zhuyin": "ㄇㄚˇ ㄍㄨㄢ ㄊㄧㄠˊ ㄩㄝ",
+   "pinyin": "mǎ guān tiáo yuē",
+   "english": "Treaty of Shimonoseki",
+   "category": "日治時期 Japanese rule",
+   "rank": 35,
+   "tag": "歷史",
+   "note": "1895 treaty in which the Qing gave Taiwan and Penghu to Japan."
+  },
+  {
+   "hanzi": "臺灣民主國",
+   "zhuyin": "ㄊㄞˊ ㄨㄢ ㄇㄧㄣˊ ㄓㄨˇ ㄍㄨㄛˊ",
+   "pinyin": "tái wān mín zhǔ guó",
+   "english": "Republic of Formosa",
+   "category": "日治時期 Japanese rule",
+   "rank": 36,
+   "tag": "歷史",
+   "note": "Declared in May 1895 to resist the Japanese; ended in October 1895."
+  },
+  {
+   "hanzi": "總督府",
+   "zhuyin": "ㄗㄨㄥˇ ㄉㄨ ㄈㄨˇ",
+   "pinyin": "zǒng dū fǔ",
+   "english": "Office of the Governor-General",
+   "category": "日治時期 Japanese rule",
+   "rank": 37,
+   "tag": "歷史",
+   "note": "The colonial government; its Taipei building is now the Presidential Office (總統府)."
+  },
+  {
+   "hanzi": "後藤新平",
+   "zhuyin": "ㄏㄡˋ ㄊㄥˊ ㄒㄧㄣ ㄆㄧㄥˊ",
+   "pinyin": "hòu téng xīn píng",
+   "english": "Gotō Shinpei",
+   "category": "日治時期 Japanese rule",
+   "rank": 38,
+   "tag": "歷史",
+   "note": "Head of civil affairs 1898–1906; built much of the colony's infrastructure."
+  },
+  {
+   "hanzi": "八田與一",
+   "zhuyin": "ㄅㄚ ㄊㄧㄢˊ ㄩˇ ㄧ",
+   "pinyin": "bā tián yǔ yī",
+   "english": "Hatta Yoichi",
+   "category": "日治時期 Japanese rule",
+   "rank": 39,
+   "tag": "歷史",
+   "note": "Japanese engineer of the Wushantou Reservoir and Chianan canals; still remembered fondly in Tainan."
+  },
+  {
+   "hanzi": "嘉南大圳",
+   "zhuyin": "ㄐㄧㄚ ㄋㄢˊ ㄉㄚˋ ㄗㄨㄣˋ",
+   "pinyin": "jiā nán dà zùn",
+   "english": "Chianan irrigation system",
+   "category": "日治時期 Japanese rule",
+   "rank": 40,
+   "tag": "歷史",
+   "note": "Canals finished in 1930, watering the Chiayi–Tainan plain."
+  },
+  {
+   "hanzi": "霧社事件",
+   "zhuyin": "ㄨˋ ㄕㄜˋ ㄕˋ ㄐㄧㄢˋ",
+   "pinyin": "wù shè shì jiàn",
+   "english": "Musha (Wushe) incident",
+   "category": "日治時期 Japanese rule",
+   "rank": 41,
+   "tag": "歷史",
+   "note": "1930 Seediq uprising in Nantou; told in the film Warriors of the Rainbow (賽德克·巴萊)."
+  },
+  {
+   "hanzi": "莫那魯道",
+   "zhuyin": "ㄇㄛˋ ㄋㄚˋ ㄌㄨˇ ㄉㄠˋ",
+   "pinyin": "mò nà lǔ dào",
+   "english": "Mona Rudao",
+   "category": "日治時期 Japanese rule",
+   "rank": 42,
+   "tag": "歷史",
+   "note": "Seediq chief who led the 1930 uprising; now on the 20 NT dollar coin."
+  },
+  {
+   "hanzi": "蔣渭水",
+   "zhuyin": "ㄐㄧㄤˇ ㄨㄟˋ ㄕㄨㄟˇ",
+   "pinyin": "jiǎng wèi shuǐ",
+   "english": "Chiang Wei-shui",
+   "category": "日治時期 Japanese rule",
+   "rank": 43,
+   "tag": "歷史",
+   "note": "Doctor and activist, founder of the Taiwanese Cultural Association and Taiwan People's Party."
+  },
+  {
+   "hanzi": "林獻堂",
+   "zhuyin": "ㄌㄧㄣˊ ㄒㄧㄢˋ ㄊㄤˊ",
+   "pinyin": "lín xiàn táng",
+   "english": "Lin Hsien-tang",
+   "category": "日治時期 Japanese rule",
+   "rank": 44,
+   "tag": "歷史",
+   "note": "Wealthy leader of the petitions for a Taiwanese parliament."
+  },
+  {
+   "hanzi": "臺灣文化協會",
+   "zhuyin": "ㄊㄞˊ ㄨㄢ ㄨㄣˊ ㄏㄨㄚˋ ㄒㄧㄝˊ ㄏㄨㄟˋ",
+   "pinyin": "tái wān wén huà xié huì",
+   "english": "Taiwanese Cultural Association",
+   "category": "日治時期 Japanese rule",
+   "rank": 45,
+   "tag": "歷史",
+   "note": "Founded 1921; promoted education and self-rule."
+  },
+  {
+   "hanzi": "皇民化運動",
+   "zhuyin": "ㄏㄨㄤˊ ㄇㄧㄣˊ ㄏㄨㄚˋ ㄩㄣˋ ㄉㄨㄥˋ",
+   "pinyin": "huáng mín huà yùn dòng",
+   "english": "Kōminka (Japanisation) movement",
+   "category": "日治時期 Japanese rule",
+   "rank": 46,
+   "tag": "歷史",
+   "note": "1937–1945 campaign to make Taiwanese into loyal imperial subjects."
+  },
+  {
+   "hanzi": "中華民國",
+   "zhuyin": "ㄓㄨㄥ ㄏㄨㄚˊ ㄇㄧㄣˊ ㄍㄨㄛˊ",
+   "pinyin": "zhōng huá mín guó",
+   "english": "Republic of China (ROC)",
+   "category": "戰後與二二八 The end of the war and the 228 Incident",
+   "rank": 47,
+   "tag": "歷史",
+   "note": "Founded in 1912 in China; Taiwan's official name today."
+  },
+  {
+   "hanzi": "國民黨",
+   "zhuyin": "ㄍㄨㄛˊ ㄇㄧㄣˊ ㄉㄤˇ",
+   "pinyin": "guó mín dǎng",
+   "english": "Kuomintang (KMT), the Nationalist Party",
+   "category": "戰後與二二八 The end of the war and the 228 Incident",
+   "rank": 48,
+   "tag": "歷史",
+   "note": "Ruled Taiwan as a single party until democratisation; now a major party."
+  },
+  {
+   "hanzi": "臺灣光復",
+   "zhuyin": "ㄊㄞˊ ㄨㄢ ㄍㄨㄤ ㄈㄨˋ",
+   "pinyin": "tái wān guāng fù",
+   "english": "Retrocession (of Taiwan)",
+   "category": "戰後與二二八 The end of the war and the 228 Incident",
+   "rank": 49,
+   "tag": "歷史",
+   "note": "The ROC's term for the 1945 handover; some prefer the neutral 終戰 \"end of the war\"."
+  },
+  {
+   "hanzi": "陳儀",
+   "zhuyin": "ㄔㄣˊ ㄧˊ",
+   "pinyin": "chén yí",
+   "english": "Chen Yi",
+   "category": "戰後與二二八 The end of the war and the 228 Incident",
+   "rank": 50,
+   "tag": "歷史",
+   "note": "First ROC governor of Taiwan; executed in 1950 for planning to defect."
+  },
+  {
+   "hanzi": "二二八事件",
+   "zhuyin": "ㄦˋ ㄦˋ ㄅㄚ ㄕˋ ㄐㄧㄢˋ",
+   "pinyin": "èr èr bā shì jiàn",
+   "english": "228 Incident",
+   "category": "戰後與二二八 The end of the war and the 228 Incident",
+   "rank": 51,
+   "tag": "歷史",
+   "note": "Uprising and crackdown of February–March 1947."
+  },
+  {
+   "hanzi": "國共內戰",
+   "zhuyin": "ㄍㄨㄛˊ ㄍㄨㄥˋ ㄋㄟˋ ㄓㄢˋ",
+   "pinyin": "guó gòng nèi zhàn",
+   "english": "Chinese Civil War",
+   "category": "戰後與二二八 The end of the war and the 228 Incident",
+   "rank": 52,
+   "tag": "歷史",
+   "note": "Between the KMT and the Communist Party; the fighting ended in 1949–1950."
+  },
+  {
+   "hanzi": "古寧頭戰役",
+   "zhuyin": "ㄍㄨˇ ㄋㄧㄥˊ ㄊㄡˊ ㄓㄢˋ ㄧˋ",
+   "pinyin": "gǔ níng tóu zhàn yì",
+   "english": "Battle of Guningtou",
+   "category": "戰後與二二八 The end of the war and the 228 Incident",
+   "rank": 53,
+   "tag": "歷史",
+   "note": "October 1949 battle on Kinmen; the Communist landing failed."
+  },
+  {
+   "hanzi": "戒嚴",
+   "zhuyin": "ㄐㄧㄝˋ ㄧㄢˊ",
+   "pinyin": "jiè yán",
+   "english": "martial law",
+   "category": "戒嚴與白色恐怖 Martial law and the White Terror",
+   "rank": 54,
+   "tag": "歷史",
+   "note": "In force in Taiwan from 1949 to 1987, 38 years."
+  },
+  {
+   "hanzi": "蔣介石",
+   "zhuyin": "ㄐㄧㄤˇ ㄐㄧㄝˋ ㄕˊ",
+   "pinyin": "jiǎng jiè shí",
+   "english": "Chiang Kai-shek",
+   "category": "戒嚴與白色恐怖 Martial law and the White Terror",
+   "rank": 55,
+   "tag": "歷史",
+   "note": "KMT leader, president of the ROC until 1975."
+  },
+  {
+   "hanzi": "白色恐怖",
+   "zhuyin": "ㄅㄞˊ ㄙㄜˋ ㄎㄨㄥˇ ㄅㄨˋ",
+   "pinyin": "bái sè kǒng bù",
+   "english": "White Terror",
+   "category": "戒嚴與白色恐怖 Martial law and the White Terror",
+   "rank": 56,
+   "tag": "歷史",
+   "note": "Political persecution under martial law."
+  },
+  {
+   "hanzi": "綠島",
+   "zhuyin": "ㄌㄩˋ ㄉㄠˇ",
+   "pinyin": "lǜ dǎo",
+   "english": "Green Island",
+   "category": "戒嚴與白色恐怖 Martial law and the White Terror",
+   "rank": 57,
+   "tag": "歷史",
+   "note": "Island off Taitung with prisons for political prisoners; now a human rights memorial park."
+  },
+  {
+   "hanzi": "雷震",
+   "zhuyin": "ㄌㄟˊ ㄓㄣˋ",
+   "pinyin": "léi zhèn",
+   "english": "Lei Chen",
+   "category": "戒嚴與白色恐怖 Martial law and the White Terror",
+   "rank": 58,
+   "tag": "歷史",
+   "note": "Editor of the magazine Free China (自由中國); imprisoned for ten years."
+  },
+  {
+   "hanzi": "八二三砲戰",
+   "zhuyin": "ㄅㄚ ㄦˋ ㄙㄢ ㄆㄠˋ ㄓㄢˋ",
+   "pinyin": "bā èr sān pào zhàn",
+   "english": "823 Artillery Battle",
+   "category": "戒嚴與白色恐怖 Martial law and the White Terror",
+   "rank": 59,
+   "tag": "歷史",
+   "note": "The Second Taiwan Strait Crisis, starting 23 August 1958."
+  },
+  {
+   "hanzi": "眷村",
+   "zhuyin": "ㄐㄩㄢˋ ㄘㄨㄣ",
+   "pinyin": "juàn cūn",
+   "english": "military dependents' village",
+   "category": "戒嚴與白色恐怖 Martial law and the White Terror",
+   "rank": 60,
+   "tag": "歷史",
+   "note": "Housing for soldiers' families from China; known for their food and close communities."
+  },
+  {
+   "hanzi": "外省人",
+   "zhuyin": "ㄨㄞˋ ㄕㄥˇ ㄖㄣˊ",
+   "pinyin": "wài shěng rén",
+   "english": "\"mainlander\"",
+   "category": "戒嚴與白色恐怖 Martial law and the White Terror",
+   "rank": 61,
+   "tag": "歷史",
+   "note": "People who came from China after 1945, and their descendants."
+  },
+  {
+   "hanzi": "本省人",
+   "zhuyin": "ㄅㄣˇ ㄕㄥˇ ㄖㄣˊ",
+   "pinyin": "běn shěng rén",
+   "english": "Taiwanese of earlier origin",
+   "category": "戒嚴與白色恐怖 Martial law and the White Terror",
+   "rank": 62,
+   "tag": "歷史",
+   "note": "Those whose families were in Taiwan before 1945."
+  },
+  {
+   "hanzi": "退出聯合國",
+   "zhuyin": "ㄊㄨㄟˋ ㄔㄨ ㄌㄧㄢˊ ㄏㄜˊ ㄍㄨㄛˊ",
+   "pinyin": "tuì chū lián hé guó",
+   "english": "leaving the United Nations",
+   "category": "戒嚴與白色恐怖 Martial law and the White Terror",
+   "rank": 63,
+   "tag": "歷史",
+   "note": "1971, when UN Resolution 2758 gave China's seat to the PRC."
+  },
+  {
+   "hanzi": "中美斷交",
+   "zhuyin": "ㄓㄨㄥ ㄇㄟˇ ㄉㄨㄢˋ ㄐㄧㄠ",
+   "pinyin": "zhōng měi duàn jiāo",
+   "english": "end of US–ROC diplomatic ties",
+   "category": "戒嚴與白色恐怖 Martial law and the White Terror",
+   "rank": 64,
+   "tag": "歷史",
+   "note": "1 January 1979."
+  },
+  {
+   "hanzi": "臺灣關係法",
+   "zhuyin": "ㄊㄞˊ ㄨㄢ ㄍㄨㄢ ㄒㄧˋ ㄈㄚˇ",
+   "pinyin": "tái wān guān xì fǎ",
+   "english": "Taiwan Relations Act",
+   "category": "戒嚴與白色恐怖 Martial law and the White Terror",
+   "rank": 65,
+   "tag": "歷史",
+   "note": "1979 US law that keeps unofficial relations and arms sales."
+  },
+  {
+   "hanzi": "美麗島事件",
+   "zhuyin": "ㄇㄟˇ ㄌㄧˋ ㄉㄠˇ ㄕˋ ㄐㄧㄢˋ",
+   "pinyin": "měi lì dǎo shì jiàn",
+   "english": "Formosa (Kaohsiung) Incident",
+   "category": "戒嚴與白色恐怖 Martial law and the White Terror",
+   "rank": 66,
+   "tag": "歷史",
+   "note": "10 December 1979; a turning point for the democracy movement."
+  },
+  {
+   "hanzi": "黨外",
+   "zhuyin": "ㄉㄤˇ ㄨㄞˋ",
+   "pinyin": "dǎng wài",
+   "english": "Tangwai (\"outside the party\")",
+   "category": "戒嚴與白色恐怖 Martial law and the White Terror",
+   "rank": 67,
+   "tag": "歷史",
+   "note": "The opposition movement before opposition parties were allowed."
+  },
+  {
+   "hanzi": "三七五減租",
+   "zhuyin": "ㄙㄢ ㄑㄧ ㄨˇ ㄐㄧㄢˇ ㄗㄨ",
+   "pinyin": "sān qī wǔ jiǎn zū",
+   "english": "37.5% rent reduction",
+   "category": "經濟奇蹟 The economic miracle",
+   "rank": 68,
+   "tag": "歷史",
+   "note": "1949 law capping farm rent at 37.5% of the main crop."
+  },
+  {
+   "hanzi": "耕者有其田",
+   "zhuyin": "ㄍㄥ ㄓㄜˇ ㄧㄡˇ ㄑㄧˊ ㄊㄧㄢˊ",
+   "pinyin": "gēng zhě yǒu qí tián",
+   "english": "\"land to the tiller\"",
+   "category": "經濟奇蹟 The economic miracle",
+   "rank": 69,
+   "tag": "歷史",
+   "note": "1953 programme that bought landlords' land and sold it to tenants."
+  },
+  {
+   "hanzi": "美援",
+   "zhuyin": "ㄇㄟˇ ㄩㄢˊ",
+   "pinyin": "měi yuán",
+   "english": "US aid",
+   "category": "經濟奇蹟 The economic miracle",
+   "rank": 70,
+   "tag": "歷史",
+   "note": "Economic aid from 1951 to 1965."
+  },
+  {
+   "hanzi": "加工出口區",
+   "zhuyin": "ㄐㄧㄚ ㄍㄨㄥ ㄔㄨ ㄎㄡˇ ㄑㄩ",
+   "pinyin": "jiā gōng chū kǒu qū",
+   "english": "export processing zone",
+   "category": "經濟奇蹟 The economic miracle",
+   "rank": 71,
+   "tag": "歷史",
+   "note": "The first opened in Kaohsiung in 1966."
+  },
+  {
+   "hanzi": "蔣經國",
+   "zhuyin": "ㄐㄧㄤˇ ㄐㄧㄥ ㄍㄨㄛˊ",
+   "pinyin": "jiǎng jīng guó",
+   "english": "Chiang Ching-kuo",
+   "category": "經濟奇蹟 The economic miracle",
+   "rank": 72,
+   "tag": "歷史",
+   "note": "Chiang Kai-shek's son; premier, then president 1978–1988. Lifted martial law."
+  },
+  {
+   "hanzi": "十大建設",
+   "zhuyin": "ㄕˊ ㄉㄚˋ ㄐㄧㄢˋ ㄕㄜˋ",
+   "pinyin": "shí dà jiàn shè",
+   "english": "Ten Major Construction Projects",
+   "category": "經濟奇蹟 The economic miracle",
+   "rank": 73,
+   "tag": "歷史",
+   "note": "1970s infrastructure, including the Sun Yat-sen Freeway and Taoyuan Airport."
+  },
+  {
+   "hanzi": "新竹科學園區",
+   "zhuyin": "ㄒㄧㄣ ㄓㄨˊ ㄎㄜ ㄒㄩㄝˊ ㄩㄢˊ ㄑㄩ",
+   "pinyin": "xīn zhú kē xué yuán qū",
+   "english": "Hsinchu Science Park",
+   "category": "經濟奇蹟 The economic miracle",
+   "rank": 74,
+   "tag": "歷史",
+   "note": "Taiwan's \"Silicon Valley\", opened in 1980."
+  },
+  {
+   "hanzi": "張忠謀",
+   "zhuyin": "ㄓㄤ ㄓㄨㄥ ㄇㄡˊ",
+   "pinyin": "zhāng zhōng móu",
+   "english": "Morris Chang",
+   "category": "經濟奇蹟 The economic miracle",
+   "rank": 75,
+   "tag": "歷史",
+   "note": "Founder of TSMC."
+  },
+  {
+   "hanzi": "台積電",
+   "zhuyin": "ㄊㄞˊ ㄐㄧ ㄉㄧㄢˋ",
+   "pinyin": "tái jī diàn",
+   "english": "TSMC",
+   "category": "經濟奇蹟 The economic miracle",
+   "rank": 76,
+   "tag": "歷史",
+   "note": "Taiwan Semiconductor Manufacturing Company, founded 1987."
+  },
+  {
+   "hanzi": "亞洲四小龍",
+   "zhuyin": "ㄧㄚˋ ㄓㄡ ㄙˋ ㄒㄧㄠˇ ㄌㄨㄥˊ",
+   "pinyin": "yà zhōu sì xiǎo lóng",
+   "english": "Four Asian Tigers",
+   "category": "經濟奇蹟 The economic miracle",
+   "rank": 77,
+   "tag": "歷史",
+   "note": "Taiwan, South Korea, Hong Kong and Singapore."
+  },
+  {
+   "hanzi": "民主進步黨",
+   "zhuyin": "ㄇㄧㄣˊ ㄓㄨˇ ㄐㄧㄣˋ ㄅㄨˋ ㄉㄤˇ",
+   "pinyin": "mín zhǔ jìn bù dǎng",
+   "english": "Democratic Progressive Party (DPP)",
+   "category": "民主化 Democratisation",
+   "rank": 78,
+   "tag": "歷史",
+   "note": "Founded 28 September 1986; usually shortened to 民進黨."
+  },
+  {
+   "hanzi": "解嚴",
+   "zhuyin": "ㄐㄧㄝˇ ㄧㄢˊ",
+   "pinyin": "jiě yán",
+   "english": "lifting of martial law",
+   "category": "民主化 Democratisation",
+   "rank": 79,
+   "tag": "歷史",
+   "note": "15 July 1987."
+  },
+  {
+   "hanzi": "報禁",
+   "zhuyin": "ㄅㄠˋ ㄐㄧㄣˋ",
+   "pinyin": "bào jìn",
+   "english": "newspaper ban",
+   "category": "民主化 Democratisation",
+   "rank": 80,
+   "tag": "歷史",
+   "note": "Limits on new newspapers, lifted in 1988."
+  },
+  {
+   "hanzi": "鄭南榕",
+   "zhuyin": "ㄓㄥˋ ㄋㄢˊ ㄖㄨㄥˊ",
+   "pinyin": "zhèng nán róng",
+   "english": "Nylon Deng (Cheng Nan-jung)",
+   "category": "民主化 Democratisation",
+   "rank": 81,
+   "tag": "歷史",
+   "note": "Magazine publisher who died for freedom of speech in 1989."
+  },
+  {
+   "hanzi": "李登輝",
+   "zhuyin": "ㄌㄧˇ ㄉㄥ ㄏㄨㄟ",
+   "pinyin": "lǐ dēng huī",
+   "english": "Lee Teng-hui",
+   "category": "民主化 Democratisation",
+   "rank": 82,
+   "tag": "歷史",
+   "note": "President 1988–2000; led the democratic reforms."
+  },
+  {
+   "hanzi": "野百合學運",
+   "zhuyin": "ㄧㄝˇ ㄅㄞˇ ㄏㄜˊ ㄒㄩㄝˊ ㄩㄣˋ",
+   "pinyin": "yě bǎi hé xué yùn",
+   "english": "Wild Lily student movement",
+   "category": "民主化 Democratisation",
+   "rank": 83,
+   "tag": "歷史",
+   "note": "March 1990 student sit-in for democratic reform."
+  },
+  {
+   "hanzi": "全民健保",
+   "zhuyin": "ㄑㄩㄢˊ ㄇㄧㄣˊ ㄐㄧㄢˋ ㄅㄠˇ",
+   "pinyin": "quán mín jiàn bǎo",
+   "english": "National Health Insurance",
+   "category": "民主化 Democratisation",
+   "rank": 84,
+   "tag": "歷史",
+   "note": "Single-payer health insurance, started in 1995."
+  },
+  {
+   "hanzi": "總統直選",
+   "zhuyin": "ㄗㄨㄥˇ ㄊㄨㄥˇ ㄓˊ ㄒㄩㄢˇ",
+   "pinyin": "zǒng tǒng zhí xuǎn",
+   "english": "direct presidential election",
+   "category": "民主化 Democratisation",
+   "rank": 85,
+   "tag": "歷史",
+   "note": "First held on 23 March 1996."
+  },
+  {
+   "hanzi": "臺海飛彈危機",
+   "zhuyin": "ㄊㄞˊ ㄏㄞˇ ㄈㄟ ㄉㄢˋ ㄨㄟˊ ㄐㄧ",
+   "pinyin": "tái hǎi fēi dàn wéi jī",
+   "english": "Taiwan Strait missile crisis",
+   "category": "民主化 Democratisation",
+   "rank": 86,
+   "tag": "歷史",
+   "note": "The Third Taiwan Strait Crisis, 1995–1996."
+  },
+  {
+   "hanzi": "九二一大地震",
+   "zhuyin": "ㄐㄧㄡˇ ㄦˋ ㄧ ㄉㄚˋ ㄉㄧˋ ㄓㄣˋ",
+   "pinyin": "jiǔ èr yī dà dì zhèn",
+   "english": "921 earthquake (Chi-Chi earthquake)",
+   "category": "當代臺灣 Contemporary Taiwan",
+   "rank": 87,
+   "tag": "歷史",
+   "note": "Magnitude 7.3, 21 September 1999."
+  },
+  {
+   "hanzi": "陳水扁",
+   "zhuyin": "ㄔㄣˊ ㄕㄨㄟˇ ㄅㄧㄢˇ",
+   "pinyin": "chén shuǐ biǎn",
+   "english": "Chen Shui-bian",
+   "category": "當代臺灣 Contemporary Taiwan",
+   "rank": 88,
+   "tag": "歷史",
+   "note": "President 2000–2008, the first from the DPP."
+  },
+  {
+   "hanzi": "政黨輪替",
+   "zhuyin": "ㄓㄥˋ ㄉㄤˇ ㄌㄨㄣˊ ㄊㄧˋ",
+   "pinyin": "zhèng dǎng lún tì",
+   "english": "transfer of power between parties",
+   "category": "當代臺灣 Contemporary Taiwan",
+   "rank": 89,
+   "tag": "歷史",
+   "note": "First in 2000; it has happened in 2008 and 2016 too."
+  },
+  {
+   "hanzi": "馬英九",
+   "zhuyin": "ㄇㄚˇ ㄧㄥ ㄐㄧㄡˇ",
+   "pinyin": "mǎ yīng jiǔ",
+   "english": "Ma Ying-jeou",
+   "category": "當代臺灣 Contemporary Taiwan",
+   "rank": 90,
+   "tag": "歷史",
+   "note": "President 2008–2016 (KMT)."
+  },
+  {
+   "hanzi": "太陽花學運",
+   "zhuyin": "ㄊㄞˋ ㄧㄤˊ ㄏㄨㄚ ㄒㄩㄝˊ ㄩㄣˋ",
+   "pinyin": "tài yáng huā xué yùn",
+   "english": "Sunflower Movement",
+   "category": "當代臺灣 Contemporary Taiwan",
+   "rank": 91,
+   "tag": "歷史",
+   "note": "March–April 2014 occupation of the legislature."
+  },
+  {
+   "hanzi": "蔡英文",
+   "zhuyin": "ㄘㄞˋ ㄧㄥ ㄨㄣˊ",
+   "pinyin": "cài yīng wén",
+   "english": "Tsai Ing-wen",
+   "category": "當代臺灣 Contemporary Taiwan",
+   "rank": 92,
+   "tag": "歷史",
+   "note": "President 2016–2024 (DPP), the first woman president."
+  },
+  {
+   "hanzi": "同性婚姻",
+   "zhuyin": "ㄊㄨㄥˊ ㄒㄧㄥˋ ㄏㄨㄣ ㄧㄣ",
+   "pinyin": "tóng xìng hūn yīn",
+   "english": "same-sex marriage",
+   "category": "當代臺灣 Contemporary Taiwan",
+   "rank": 93,
+   "tag": "歷史",
+   "note": "Legal in Taiwan since 24 May 2019; often shortened to 同婚."
+  },
+  {
+   "hanzi": "賴清德",
+   "zhuyin": "ㄌㄞˋ ㄑㄧㄥ ㄉㄜˊ",
+   "pinyin": "lài qīng dé",
+   "english": "Lai Ching-te",
+   "category": "當代臺灣 Contemporary Taiwan",
+   "rank": 94,
+   "tag": "歷史",
+   "note": "President from 2024 (DPP)."
+  }
+ ]
+}

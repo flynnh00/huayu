@@ -1,0 +1,7708 @@
+{
+ "pages": [
+  {
+   "kind": "lesson",
+   "id": "sounds",
+   "name": "拼音",
+   "english": "How pinyin works",
+   "glyph": "拼",
+   "sub": "Letters that don't sound like English",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pinyin spells Mandarin with the Latin alphabet. You'll see it on maps, in station names and in every dictionary app, and it's the easiest way to read how a word is said."
+    },
+    {
+     "t": "p",
+     "text": "Every syllable has a starting sound (b, sh, zh…), the rest of the syllable (a, ian, ong…) and a tone, shown by the mark over a vowel. Most letters sound roughly as in English. These are the ones that don't. Tap one to hear the example."
+    },
+    {
+     "t": "h",
+     "text": "Letters to relearn"
+    },
+    {
+     "t": "sound",
+     "label": "q",
+     "desc": "like \"ch\" in \"cheese\", lips spread",
+     "hanzi": "七",
+     "pinyin": "qī",
+     "zhuyin": "ㄑㄧ"
+    },
+    {
+     "t": "sound",
+     "label": "x",
+     "desc": "like \"sh\" in \"she\", tongue low behind the teeth",
+     "hanzi": "西",
+     "pinyin": "xī",
+     "zhuyin": "ㄒㄧ"
+    },
+    {
+     "t": "sound",
+     "label": "j",
+     "desc": "like \"j\" in \"jeep\", lips spread",
+     "hanzi": "雞",
+     "pinyin": "jī",
+     "zhuyin": "ㄐㄧ"
+    },
+    {
+     "t": "sound",
+     "label": "zh",
+     "desc": "like \"j\" in \"jug\", tongue tip curled back",
+     "hanzi": "知",
+     "pinyin": "zhī",
+     "zhuyin": "ㄓ"
+    },
+    {
+     "t": "sound",
+     "label": "ch",
+     "desc": "like \"ch\" in \"church\", tongue curled back",
+     "hanzi": "吃",
+     "pinyin": "chī",
+     "zhuyin": "ㄔ"
+    },
+    {
+     "t": "sound",
+     "label": "sh",
+     "desc": "like \"sh\" in \"shirt\", tongue curled back",
+     "hanzi": "是",
+     "pinyin": "shì",
+     "zhuyin": "ㄕˋ"
+    },
+    {
+     "t": "sound",
+     "label": "r",
+     "desc": "between the \"r\" in \"run\" and the \"s\" in \"measure\"",
+     "hanzi": "日",
+     "pinyin": "rì",
+     "zhuyin": "ㄖˋ"
+    },
+    {
+     "t": "sound",
+     "label": "z",
+     "desc": "like \"ds\" in \"kids\"",
+     "hanzi": "字",
+     "pinyin": "zì",
+     "zhuyin": "ㄗˋ"
+    },
+    {
+     "t": "sound",
+     "label": "c",
+     "desc": "like \"ts\" in \"cats\", with a puff of air",
+     "hanzi": "菜",
+     "pinyin": "cài",
+     "zhuyin": "ㄘㄞˋ"
+    },
+    {
+     "t": "sound",
+     "label": "e",
+     "desc": "like the \"u\" in \"duh\", from the back of the throat",
+     "hanzi": "餓",
+     "pinyin": "è",
+     "zhuyin": "ㄜˋ"
+    },
+    {
+     "t": "sound",
+     "label": "ü",
+     "desc": "say \"ee\" with rounded lips; written u after j, q, x and y",
+     "hanzi": "魚",
+     "pinyin": "yú",
+     "zhuyin": "ㄩˊ"
+    },
+    {
+     "t": "sound",
+     "label": "i after z, c, s, zh, ch, sh, r",
+     "desc": "not \"ee\": the buzz of the consonant carries on",
+     "hanzi": "四",
+     "pinyin": "sì",
+     "zhuyin": "ㄙˋ"
+    },
+    {
+     "t": "h",
+     "text": "Spelled one way, said another"
+    },
+    {
+     "t": "sound",
+     "label": "ian",
+     "desc": "sounds like \"yen\"",
+     "hanzi": "天",
+     "pinyin": "tiān",
+     "zhuyin": "ㄊㄧㄢ"
+    },
+    {
+     "t": "sound",
+     "label": "ui",
+     "desc": "sounds like \"way\"",
+     "hanzi": "對",
+     "pinyin": "duì",
+     "zhuyin": "ㄉㄨㄟˋ"
+    },
+    {
+     "t": "sound",
+     "label": "iu",
+     "desc": "sounds like \"yo\"",
+     "hanzi": "六",
+     "pinyin": "liù",
+     "zhuyin": "ㄌㄧㄡˋ"
+    },
+    {
+     "t": "sound",
+     "label": "ong",
+     "desc": "the o is like the \"oo\" in \"book\"",
+     "hanzi": "東",
+     "pinyin": "dōng",
+     "zhuyin": "ㄉㄨㄥ"
+    },
+    {
+     "t": "h",
+     "text": "Puff or no puff"
+    },
+    {
+     "t": "p",
+     "text": "b, d and g are not voiced as in English. They're like the p, t and k in \"spy\", \"sty\" and \"sky\", with no puff of air. p, t and k have a strong puff."
+    },
+    {
+     "t": "sound",
+     "label": "b",
+     "desc": "like \"p\" in \"spy\"",
+     "hanzi": "八",
+     "pinyin": "bā",
+     "zhuyin": "ㄅㄚ"
+    },
+    {
+     "t": "sound",
+     "label": "p",
+     "desc": "like \"p\" in \"pie\", with a puff of air",
+     "hanzi": "爬",
+     "pinyin": "pá",
+     "zhuyin": "ㄆㄚˊ"
+    },
+    {
+     "t": "sound",
+     "label": "d",
+     "desc": "like \"t\" in \"sty\"",
+     "hanzi": "大",
+     "pinyin": "dà",
+     "zhuyin": "ㄉㄚˋ"
+    },
+    {
+     "t": "sound",
+     "label": "t",
+     "desc": "like \"t\" in \"tie\", with a puff of air",
+     "hanzi": "他",
+     "pinyin": "tā",
+     "zhuyin": "ㄊㄚ"
+    },
+    {
+     "t": "sound",
+     "label": "g",
+     "desc": "like \"k\" in \"sky\"",
+     "hanzi": "哥",
+     "pinyin": "gē",
+     "zhuyin": "ㄍㄜ"
+    },
+    {
+     "t": "sound",
+     "label": "k",
+     "desc": "like \"k\" in \"kite\", with a puff of air",
+     "hanzi": "開",
+     "pinyin": "kāi",
+     "zhuyin": "ㄎㄞ"
+    },
+    {
+     "t": "sound",
+     "label": "h",
+     "desc": "rougher than English h, a little like \"ch\" in Scottish \"loch\"",
+     "hanzi": "好",
+     "pinyin": "hǎo",
+     "zhuyin": "ㄏㄠˇ"
+    },
+    {
+     "t": "h",
+     "text": "In Taiwan"
+    },
+    {
+     "t": "p",
+     "text": "Many people in Taiwan say zh, ch and sh much like z, c and s, so 是 shì can sound like sì. Endings -in and -ing, and -en and -eng, can also sound alike. Either way you'll be understood."
+    }
+   ]
+  },
+  {
+   "kind": "lesson",
+   "id": "tones",
+   "name": "聲調",
+   "english": "The four tones",
+   "glyph": "調",
+   "sub": "Pitch changes the meaning",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Mandarin is tonal: the pitch of a syllable is part of the word. mā, má, mǎ and mà are four different words. Pinyin shows the tone with a mark over a vowel."
+    },
+    {
+     "t": "sound",
+     "label": "ā · 1st tone",
+     "desc": "high and level, like holding a note",
+     "hanzi": "媽",
+     "pinyin": "mā",
+     "zhuyin": "ㄇㄚ"
+    },
+    {
+     "t": "sound",
+     "label": "á · 2nd tone",
+     "desc": "rising, like a surprised \"huh?\"",
+     "hanzi": "麻",
+     "pinyin": "má",
+     "zhuyin": "ㄇㄚˊ"
+    },
+    {
+     "t": "sound",
+     "label": "ǎ · 3rd tone",
+     "desc": "low and dipping",
+     "hanzi": "馬",
+     "pinyin": "mǎ",
+     "zhuyin": "ㄇㄚˇ"
+    },
+    {
+     "t": "sound",
+     "label": "à · 4th tone",
+     "desc": "falling sharply, like a firm \"no!\"",
+     "hanzi": "罵",
+     "pinyin": "mà",
+     "zhuyin": "ㄇㄚˋ"
+    },
+    {
+     "t": "sound",
+     "label": "a · neutral tone",
+     "desc": "short and light, with no mark",
+     "hanzi": "嗎",
+     "pinyin": "ma",
+     "zhuyin": "˙ㄇㄚ"
+    },
+    {
+     "t": "p",
+     "text": "媽 is mother, 麻 is numb, 馬 is horse and 罵 is to scold. In everyday speech the 3rd tone usually stays low and only rises when you stop on it."
+    },
+    {
+     "t": "action",
+     "action": "tones",
+     "label": "Practise hearing the tones"
+    },
+    {
+     "t": "h",
+     "text": "Tones that change in speech"
+    },
+    {
+     "t": "p",
+     "text": "Pinyin usually writes each syllable's own tone, but three common changes happen as you speak. Knowing them makes phrases sound right."
+    },
+    {
+     "t": "phrase",
+     "hanzi": "你好"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "不要"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "一個"
+    },
+    {
+     "t": "h",
+     "text": "Taiwan's tones"
+    },
+    {
+     "t": "p",
+     "text": "Taiwanese Mandarin uses the light neutral tone less often than the Mandarin of Beijing, so you'll hear full tones where some textbooks write a neutral one. This app's readings follow Taiwan's dictionaries."
+    }
+   ]
+  },
+  {
+   "kind": "lesson",
+   "id": "greetings",
+   "name": "打招呼",
+   "english": "Hello, thanks, sorry",
+   "glyph": "你",
+   "sub": "The polite basics",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "A handful of phrases covers most polite moments. 不好意思 is the one you'll use most in Taiwan: excuse me, sorry to bother you, and a small sorry, all in one."
+    },
+    {
+     "t": "phrase",
+     "hanzi": "你好"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "您好"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "哈囉"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "早安"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "謝謝"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "不客氣"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "不好意思"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "對不起"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "沒關係"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "請問"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "再見"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "掰掰"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "好"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "對"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "不對"
+    }
+   ]
+  },
+  {
+   "kind": "lesson",
+   "id": "gettingby",
+   "name": "聽不懂",
+   "english": "When you don't understand",
+   "glyph": "懂",
+   "sub": "Slow down, say it again",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "These phrases keep a conversation going when you're lost. People in Taiwan are usually patient and happy to help a visitor who tries a little Mandarin."
+    },
+    {
+     "t": "phrase",
+     "hanzi": "聽不懂"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我不會說中文"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我會說一點中文"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "你會說英文嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "可以說慢一點嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "可以再說一次嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "可以寫下來嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "這是什麼？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "這個"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "那個"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "可以嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "可以"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "沒問題"
+    }
+   ]
+  },
+  {
+   "kind": "lesson",
+   "id": "numbers",
+   "name": "數字",
+   "english": "Numbers",
+   "glyph": "數",
+   "sub": "0 to 10,000",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Chinese numbers are regular. Learn zero to ten and you can build every number up to 99."
+    },
+    {
+     "t": "phrase",
+     "hanzi": "零"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "一"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "二"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "三"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "四"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "五"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "六"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "七"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "八"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "九"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "十"
+    },
+    {
+     "t": "h",
+     "text": "Building bigger numbers"
+    },
+    {
+     "t": "p",
+     "text": "11 is \"ten one\", 20 is \"two ten\" and 35 is \"three ten five\". After that come 百 bǎi (hundred), 千 qiān (thousand) and 萬 wàn (ten thousand). Chinese counts large numbers in ten-thousands, so 50,000 is 五萬, \"five ten-thousands\"."
+    },
+    {
+     "t": "phrase",
+     "hanzi": "十一"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "二十"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "三十五"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "一百"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "一千"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "一萬"
+    },
+    {
+     "t": "h",
+     "text": "Two: 二 or 兩?"
+    },
+    {
+     "t": "p",
+     "text": "Use 二 èr when counting, in phone numbers and inside numbers like 十二 (12). Use 兩 liǎng for \"two of something\" and, usually, before 百, 千 and 萬."
+    },
+    {
+     "t": "phrase",
+     "hanzi": "兩個"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "兩百"
+    },
+    {
+     "t": "h",
+     "text": "Zero in the middle"
+    },
+    {
+     "t": "p",
+     "text": "A gap inside a number is read as 零: 105 is \"one hundred zero five\". Phone numbers are read digit by digit."
+    },
+    {
+     "t": "phrase",
+     "hanzi": "一百零五"
+    },
+    {
+     "t": "action",
+     "action": "numbers",
+     "label": "Practise hearing numbers"
+    },
+    {
+     "t": "action",
+     "action": "page:money",
+     "label": "Prices and paying"
+    }
+   ]
+  },
+  {
+   "kind": "lesson",
+   "id": "money",
+   "name": "多少錢",
+   "english": "Prices and paying",
+   "glyph": "錢",
+   "sub": "NT$, cash and cards",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Taiwan's money is the New Taiwan dollar (NT$). Price tags say 元 yuán, but in speech people say 塊 kuài: 五十塊 is NT$50. Coins are 1, 5, 10 and 50; the common notes are 100, 500 and 1,000."
+    },
+    {
+     "t": "phrase",
+     "hanzi": "多少錢？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "一共多少錢？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "五十塊"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "一百塊"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "三百五十塊"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "太貴了"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "可以刷卡嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "現金"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "只收現金"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "找你五十塊"
+    },
+    {
+     "t": "action",
+     "action": "prices",
+     "label": "Practise hearing prices"
+    }
+   ]
+  },
+  {
+   "kind": "lesson",
+   "id": "sentences",
+   "name": "句子",
+   "english": "Simple sentences",
+   "glyph": "句",
+   "sub": "Six patterns that go a long way",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Chinese has no verb endings, plurals or articles: words never change form. Word order and a few small words do the work."
+    },
+    {
+     "t": "h",
+     "text": "1. Who, does, what"
+    },
+    {
+     "t": "p",
+     "text": "The order is the same as in English: subject, verb, object."
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我要咖啡"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我喜歡台灣"
+    },
+    {
+     "t": "h",
+     "text": "2. 是 shì joins nouns, 很 hěn comes before adjectives"
+    },
+    {
+     "t": "p",
+     "text": "是 means \"is\" between two nouns. Before an adjective, use 很 hěn instead. Here it barely means \"very\"."
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我是學生"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "這個很好吃"
+    },
+    {
+     "t": "h",
+     "text": "3. Yes-or-no questions with 嗎 ma"
+    },
+    {
+     "t": "p",
+     "text": "Add 嗎 to the end of a statement to turn it into a question. To answer, repeat the verb: 有 (yes, there is) or 沒有 (no)."
+    },
+    {
+     "t": "phrase",
+     "hanzi": "有廁所嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "這個辣嗎？"
+    },
+    {
+     "t": "h",
+     "text": "4. Saying no: 不 bù and 沒 méi"
+    },
+    {
+     "t": "p",
+     "text": "不 makes most verbs and adjectives negative. 有 (to have, there is) takes 沒 instead."
+    },
+    {
+     "t": "phrase",
+     "hanzi": "不辣"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "不要"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "沒有"
+    },
+    {
+     "t": "h",
+     "text": "5. Question words stay put"
+    },
+    {
+     "t": "p",
+     "text": "To ask where, put 哪裡 nǎlǐ where the answer would go: \"bathroom is where?\". 什麼 shénme (what) and 多少 duōshǎo (how much) work the same way."
+    },
+    {
+     "t": "phrase",
+     "hanzi": "廁所在哪裡？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "你要什麼？"
+    },
+    {
+     "t": "h",
+     "text": "6. Counting things with 個 gè"
+    },
+    {
+     "t": "p",
+     "text": "Between a number and a noun goes a measure word. There are many, but 個 works for most things when you're not sure."
+    },
+    {
+     "t": "phrase",
+     "hanzi": "一個人"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我要兩個"
+    }
+   ]
+  },
+  {
+   "kind": "lesson",
+   "id": "ordering",
+   "name": "點餐",
+   "english": "Ordering food and drinks",
+   "glyph": "吃",
+   "sub": "Counters, stalls and bubble tea",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "In many small restaurants you order at the counter or tick a paper menu, and pay first or on the way out. Tipping isn't expected anywhere in Taiwan."
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我要這個"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我要兩個"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "內用還是外帶？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "內用"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "外帶"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "不要辣"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我吃素"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "有英文菜單嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "好吃"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "結帳"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "半糖少冰"
+    },
+    {
+     "t": "action",
+     "action": "page:food",
+     "label": "Restaurant phrasebook"
+    },
+    {
+     "t": "action",
+     "action": "page:drinks",
+     "label": "Bubble tea phrasebook"
+    }
+   ]
+  },
+  {
+   "kind": "lesson",
+   "id": "findway",
+   "name": "問路",
+   "english": "Finding your way",
+   "glyph": "路",
+   "sub": "Where is…?",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "在 zài means \"is at\". Put the place first and 在哪裡 after it to ask where something is."
+    },
+    {
+     "t": "phrase",
+     "hanzi": "廁所在哪裡？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "捷運站在哪裡？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "這裡"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "那裡"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我要去台北車站"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "直走"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "左轉"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "右轉"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "在左邊"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "在右邊"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "很近"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "很遠"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "走路五分鐘"
+    }
+   ]
+  },
+  {
+   "kind": "lesson",
+   "id": "time",
+   "name": "時間",
+   "english": "Days and times",
+   "glyph": "時",
+   "sub": "Today, tomorrow, what time?",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Times go from big to small: day first, then the hour. 點 diǎn is o'clock and 半 bàn is half past."
+    },
+    {
+     "t": "phrase",
+     "hanzi": "今天"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "明天"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "昨天"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "現在"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "現在幾點？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "三點"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "三點半"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "幾點開門？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "幾點關門？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "等一下"
+    },
+    {
+     "t": "h",
+     "text": "Days of the week"
+    },
+    {
+     "t": "p",
+     "text": "星期 xīngqí is \"week\". Monday to Saturday are numbered: 星期一 is day one. Sunday is 星期天. You'll also hear 禮拜 lǐbài used the same way."
+    },
+    {
+     "t": "phrase",
+     "hanzi": "星期一"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "星期五"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "星期天"
+    }
+   ]
+  },
+  {
+   "kind": "optional",
+   "id": "zhuyin",
+   "name": "注音",
+   "english": "Zhuyin (bopomofo)",
+   "glyph": "ㄅ",
+   "sub": "Taiwan's own sound symbols",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Zhuyin (注音符號) is Taiwan's own way of writing the sounds of Mandarin. It's also called bopomofo, after its first four symbols ㄅㄆㄇㄈ. Children in Taiwan learn it before characters, and it appears beside characters in children's books and dictionaries."
+    },
+    {
+     "t": "h",
+     "text": "Why you might want it"
+    },
+    {
+     "t": "b",
+     "text": "It's how Taiwan types. Most people here use zhuyin keyboards on their phones, so you'll see it on screens around you."
+    },
+    {
+     "t": "b",
+     "text": "It describes Mandarin sounds directly, with no English spelling habits to unlearn: no q that sounds like ch."
+    },
+    {
+     "t": "b",
+     "text": "Many learning materials in Taiwan use it, so it helps if you plan to study here."
+    },
+    {
+     "t": "h",
+     "text": "Why you might not need it"
+    },
+    {
+     "t": "b",
+     "text": "Pinyin is enough to read pronunciations, look words up and type Chinese on your phone with a pinyin keyboard."
+    },
+    {
+     "t": "b",
+     "text": "Street signs, maps and the MRT use the Latin alphabet, sometimes with older spellings such as Taipei for Táiběi."
+    },
+    {
+     "t": "b",
+     "text": "Learning 37 new symbols takes a few weeks of practice. On a short trip, phrases are a better use of your time."
+    },
+    {
+     "t": "h",
+     "text": "How it works"
+    },
+    {
+     "t": "p",
+     "text": "Each symbol is one sound. A syllable has up to three symbols: a starting sound, a middle ㄧ, ㄨ or ㄩ, and an ending. Beside characters they're written top to bottom. Tone marks follow the syllable: the 1st tone has no mark, and the neutral tone's dot ˙ goes in front."
+    },
+    {
+     "t": "phrase",
+     "hanzi": "媽"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "麻"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "馬"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "罵"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "你好"
+    },
+    {
+     "t": "h",
+     "text": "Starting sounds"
+    },
+    {
+     "t": "sound",
+     "label": "ㄅ",
+     "desc": "b",
+     "hanzi": "八",
+     "pinyin": "bā",
+     "zhuyin": "ㄅㄚ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄆ",
+     "desc": "p",
+     "hanzi": "爬",
+     "pinyin": "pá",
+     "zhuyin": "ㄆㄚˊ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄇ",
+     "desc": "m",
+     "hanzi": "媽",
+     "pinyin": "mā",
+     "zhuyin": "ㄇㄚ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄈ",
+     "desc": "f",
+     "hanzi": "飯",
+     "pinyin": "fàn",
+     "zhuyin": "ㄈㄢˋ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄉ",
+     "desc": "d",
+     "hanzi": "大",
+     "pinyin": "dà",
+     "zhuyin": "ㄉㄚˋ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄊ",
+     "desc": "t",
+     "hanzi": "他",
+     "pinyin": "tā",
+     "zhuyin": "ㄊㄚ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄋ",
+     "desc": "n",
+     "hanzi": "你",
+     "pinyin": "nǐ",
+     "zhuyin": "ㄋㄧˇ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄌ",
+     "desc": "l",
+     "hanzi": "六",
+     "pinyin": "liù",
+     "zhuyin": "ㄌㄧㄡˋ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄍ",
+     "desc": "g",
+     "hanzi": "哥",
+     "pinyin": "gē",
+     "zhuyin": "ㄍㄜ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄎ",
+     "desc": "k",
+     "hanzi": "開",
+     "pinyin": "kāi",
+     "zhuyin": "ㄎㄞ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄏ",
+     "desc": "h",
+     "hanzi": "好",
+     "pinyin": "hǎo",
+     "zhuyin": "ㄏㄠˇ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄐ",
+     "desc": "j",
+     "hanzi": "雞",
+     "pinyin": "jī",
+     "zhuyin": "ㄐㄧ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄑ",
+     "desc": "q",
+     "hanzi": "七",
+     "pinyin": "qī",
+     "zhuyin": "ㄑㄧ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄒ",
+     "desc": "x",
+     "hanzi": "西",
+     "pinyin": "xī",
+     "zhuyin": "ㄒㄧ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄓ",
+     "desc": "zh",
+     "hanzi": "知",
+     "pinyin": "zhī",
+     "zhuyin": "ㄓ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄔ",
+     "desc": "ch",
+     "hanzi": "吃",
+     "pinyin": "chī",
+     "zhuyin": "ㄔ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄕ",
+     "desc": "sh",
+     "hanzi": "是",
+     "pinyin": "shì",
+     "zhuyin": "ㄕˋ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄖ",
+     "desc": "r",
+     "hanzi": "日",
+     "pinyin": "rì",
+     "zhuyin": "ㄖˋ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄗ",
+     "desc": "z",
+     "hanzi": "字",
+     "pinyin": "zì",
+     "zhuyin": "ㄗˋ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄘ",
+     "desc": "c",
+     "hanzi": "菜",
+     "pinyin": "cài",
+     "zhuyin": "ㄘㄞˋ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄙ",
+     "desc": "s",
+     "hanzi": "四",
+     "pinyin": "sì",
+     "zhuyin": "ㄙˋ"
+    },
+    {
+     "t": "h",
+     "text": "Middle sounds"
+    },
+    {
+     "t": "sound",
+     "label": "ㄧ",
+     "desc": "i (yi)",
+     "hanzi": "衣",
+     "pinyin": "yī",
+     "zhuyin": "ㄧ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄨ",
+     "desc": "u (wu)",
+     "hanzi": "五",
+     "pinyin": "wǔ",
+     "zhuyin": "ㄨˇ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄩ",
+     "desc": "ü (yu)",
+     "hanzi": "魚",
+     "pinyin": "yú",
+     "zhuyin": "ㄩˊ"
+    },
+    {
+     "t": "h",
+     "text": "Endings"
+    },
+    {
+     "t": "sound",
+     "label": "ㄚ",
+     "desc": "a",
+     "hanzi": "爸",
+     "pinyin": "bà",
+     "zhuyin": "ㄅㄚˋ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄛ",
+     "desc": "o",
+     "hanzi": "我",
+     "pinyin": "wǒ",
+     "zhuyin": "ㄨㄛˇ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄜ",
+     "desc": "e",
+     "hanzi": "餓",
+     "pinyin": "è",
+     "zhuyin": "ㄜˋ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄝ",
+     "desc": "ê (the e in ie, ye, ue)",
+     "hanzi": "也",
+     "pinyin": "yě",
+     "zhuyin": "ㄧㄝˇ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄞ",
+     "desc": "ai",
+     "hanzi": "愛",
+     "pinyin": "ài",
+     "zhuyin": "ㄞˋ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄟ",
+     "desc": "ei",
+     "hanzi": "黑",
+     "pinyin": "hēi",
+     "zhuyin": "ㄏㄟ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄠ",
+     "desc": "ao",
+     "hanzi": "高",
+     "pinyin": "gāo",
+     "zhuyin": "ㄍㄠ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄡ",
+     "desc": "ou",
+     "hanzi": "狗",
+     "pinyin": "gǒu",
+     "zhuyin": "ㄍㄡˇ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄢ",
+     "desc": "an",
+     "hanzi": "安",
+     "pinyin": "ān",
+     "zhuyin": "ㄢ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄣ",
+     "desc": "en",
+     "hanzi": "很",
+     "pinyin": "hěn",
+     "zhuyin": "ㄏㄣˇ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄤ",
+     "desc": "ang",
+     "hanzi": "忙",
+     "pinyin": "máng",
+     "zhuyin": "ㄇㄤˊ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄥ",
+     "desc": "eng",
+     "hanzi": "冷",
+     "pinyin": "lěng",
+     "zhuyin": "ㄌㄥˇ"
+    },
+    {
+     "t": "sound",
+     "label": "ㄦ",
+     "desc": "er",
+     "hanzi": "二",
+     "pinyin": "èr",
+     "zhuyin": "ㄦˋ"
+    },
+    {
+     "t": "action",
+     "action": "zhuyin_cards",
+     "label": "Study zhuyin flashcards"
+    },
+    {
+     "t": "action",
+     "action": "zhuyin_listen",
+     "label": "Listen and pick the symbol"
+    }
+   ]
+  },
+  {
+   "kind": "situation",
+   "id": "basics",
+   "name": "基本",
+   "english": "Essentials",
+   "glyph": "謝",
+   "sub": "Please, thanks, sorry",
+   "blocks": [
+    {
+     "t": "phrase",
+     "hanzi": "你好"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "謝謝"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "不客氣"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "不好意思"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "對不起"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "請問"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "再見"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "好"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "要"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "不用"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "聽不懂"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我不會說中文"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "你會說英文嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "可以說慢一點嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "可以寫下來嗎？"
+    }
+   ]
+  },
+  {
+   "kind": "situation",
+   "id": "store",
+   "name": "便利商店",
+   "english": "Convenience store",
+   "glyph": "店",
+   "sub": "7-Eleven, FamilyMart",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "7-Eleven, FamilyMart (全家), Hi-Life (萊爾富) and OK Mart are everywhere and open around the clock. You can pay, top up transit cards, print and pick up parcels there. The clerk asks the same few questions every time, and 要 (yes) or 不用 (no need) answers most of them."
+    },
+    {
+     "t": "h",
+     "text": "You'll hear"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "歡迎光臨"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "要袋子嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "要加熱嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "有會員嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "載具？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "一共一百二十塊"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "謝謝光臨"
+    },
+    {
+     "t": "h",
+     "text": "You say"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "要"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "不用"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "一個袋子"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "可以用悠遊卡嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我要加值"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "請問有賣雨傘嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "發票"
+    }
+   ]
+  },
+  {
+   "kind": "situation",
+   "id": "food",
+   "name": "餐廳和夜市",
+   "english": "Restaurants and night markets",
+   "glyph": "吃",
+   "sub": "Ordering, spice, allergies",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "In many small restaurants you tick dishes on a paper order sheet and hand it in at the counter. Night market stalls are often cash only. Tipping isn't expected."
+    },
+    {
+     "t": "h",
+     "text": "You'll hear"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "幾位？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "內用還是外帶？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "要點什麼？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "要辣嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "稍等一下"
+    },
+    {
+     "t": "h",
+     "text": "You say"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "兩位"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我要這個"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我要兩個"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "內用"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "外帶"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "有英文菜單嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "不要辣"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "小辣"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "不要香菜"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我吃素"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我對花生過敏"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "老闆"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "好吃"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "可以幫我打包嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "結帳"
+    }
+   ]
+  },
+  {
+   "kind": "situation",
+   "id": "drinks",
+   "name": "手搖飲",
+   "english": "Bubble tea and coffee",
+   "glyph": "茶",
+   "sub": "Sugar and ice levels",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "At drink stands (手搖飲) you choose the size, sugar and ice. Sugar goes from 全糖 (full) through 少糖, 半糖 and 微糖 to 無糖 (none). Ice goes from 正常冰 (regular) through 少冰 and 微冰 to 去冰 (no ice), or 熱的 for hot."
+    },
+    {
+     "t": "h",
+     "text": "You'll hear"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "甜度冰塊呢？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "要大杯還是中杯？"
+    },
+    {
+     "t": "h",
+     "text": "You say"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "一杯珍珠奶茶"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "大杯"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "中杯"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "半糖少冰"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "全糖"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "微糖"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "無糖"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "去冰"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "熱的"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "一杯熱美式"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "一杯冰拿鐵"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "不要吸管"
+    }
+   ]
+  },
+  {
+   "kind": "situation",
+   "id": "transport",
+   "name": "交通",
+   "english": "Getting around",
+   "glyph": "車",
+   "sub": "MRT, buses, taxis, trains",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "An EasyCard (悠遊卡) or iPASS (一卡通) pays for the MRT, buses, YouBike and convenience stores. Don't eat or drink inside MRT stations or trains: the fines are real. Taxi drivers rarely speak English, so show them the address in Chinese."
+    },
+    {
+     "t": "h",
+     "text": "You'll hear"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "下一站"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "往淡水"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "到了"
+    },
+    {
+     "t": "h",
+     "text": "You say"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "捷運站在哪裡？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "公車站在哪裡？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我要去這裡"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "請到台北車站"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "這班車有到九份嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "在這裡停"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "一張票"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "高鐵站"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "計程車"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "可以幫我叫計程車嗎？"
+    }
+   ]
+  },
+  {
+   "kind": "situation",
+   "id": "directions",
+   "name": "廁所和問路",
+   "english": "Bathrooms and directions",
+   "glyph": "廁",
+   "sub": "Where is…?",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Public bathrooms are free and easy to find in MRT stations, parks, department stores and many convenience stores. It's worth carrying tissues: not every bathroom has paper."
+    },
+    {
+     "t": "h",
+     "text": "You say"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "廁所在哪裡？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "洗手間在哪裡？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "可以借廁所嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我迷路了"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "怎麼走？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "遠嗎？"
+    },
+    {
+     "t": "h",
+     "text": "You'll hear"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "直走"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "左轉"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "右轉"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "在左邊"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "在右邊"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "在對面"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "在樓上"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "在樓下"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "很近"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "很遠"
+    },
+    {
+     "t": "h",
+     "text": "Signs"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "男廁"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "女廁"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "出口"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "入口"
+    }
+   ]
+  },
+  {
+   "kind": "situation",
+   "id": "shopping",
+   "name": "購物",
+   "english": "Money and shopping",
+   "glyph": "錢",
+   "sub": "Prices, cards, sizes",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Prices in shops are fixed; bargaining is only for some market stalls. Most shops take cards, but night markets and small shops are often cash only. Keep paper receipts (發票): they're drawn in a lottery every two months."
+    },
+    {
+     "t": "h",
+     "text": "You say"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "多少錢？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "一共多少錢？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "太貴了"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "可以便宜一點嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "可以刷卡嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我只是看看"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "有大一點的嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "有別的顏色嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "可以試穿嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "可以退稅嗎？"
+    },
+    {
+     "t": "h",
+     "text": "You'll hear"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "只收現金"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "找你五十塊"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "打八折"
+    },
+    {
+     "t": "action",
+     "action": "prices",
+     "label": "Practise hearing prices"
+    }
+   ]
+  },
+  {
+   "kind": "situation",
+   "id": "hotel",
+   "name": "住宿",
+   "english": "Hotel and Wi-Fi",
+   "glyph": "住",
+   "sub": "Check-in, luggage, problems",
+   "blocks": [
+    {
+     "t": "h",
+     "text": "You say"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我有訂房"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我要退房"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "可以寄放行李嗎？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "無線網路密碼是什麼？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "幾點吃早餐？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "冷氣壞了"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "可以給我毛巾嗎？"
+    },
+    {
+     "t": "h",
+     "text": "You'll hear"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "請給我護照"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "十一點退房"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "押金"
+    }
+   ]
+  },
+  {
+   "kind": "situation",
+   "id": "help",
+   "name": "救命",
+   "english": "Health and emergencies",
+   "glyph": "救",
+   "sub": "119, pharmacies, doctors",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Emergency calls are free from any phone. Pharmacies (藥局) are common and pharmacists can help with minor problems."
+    },
+    {
+     "t": "tel",
+     "number": "119",
+     "label": "Ambulance and fire"
+    },
+    {
+     "t": "tel",
+     "number": "110",
+     "label": "Police"
+    },
+    {
+     "t": "tel",
+     "number": "0800011765",
+     "label": "Tourist information hotline (English, 24 hours)"
+    },
+    {
+     "t": "h",
+     "text": "You say"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "救命！"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "請叫救護車"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我需要醫生"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我不舒服"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我頭痛"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我肚子痛"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我發燒了"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我過敏"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "藥局在哪裡？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "醫院"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "我的錢包不見了"
+    },
+    {
+     "t": "h",
+     "text": "You'll hear"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "哪裡不舒服？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "一天三次"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "飯後吃"
+    }
+   ]
+  },
+  {
+   "kind": "situation",
+   "id": "colloquial",
+   "name": "口語",
+   "english": "Colloquial Taiwan",
+   "glyph": "口",
+   "sub": "Slang, Taiwanese words, what not to say",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Textbook Mandarin is polite but a bit stiff. These are the short words people in Taiwan actually use with friends, at markets and at work. Most are friendly and safe; the last group is for recognising, not saying."
+    },
+    {
+     "t": "p",
+     "text": "Many come from Taiwanese (台語), Taiwan's other everyday language. People usually smile when a visitor uses one."
+    },
+    {
+     "t": "h",
+     "text": "Everyday reactions"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "好喔"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "對啊"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "真的假的？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "沒差"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "不會啦"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "沒關係啦"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "超好吃"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "讚"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "好險"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "加油"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "辛苦了"
+    },
+    {
+     "t": "h",
+     "text": "From Taiwanese"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "哩賀"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "歹勢"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "母湯"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "古錐"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "水喔"
+    },
+    {
+     "t": "h",
+     "text": "You'll hear"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "呷飽沒？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "蛤？"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "欸"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "齁"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "傻眼"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "笑死"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "夭壽"
+    },
+    {
+     "t": "h",
+     "text": "Recognise, don't say"
+    },
+    {
+     "t": "p",
+     "text": "You'll hear these among friends, in traffic and on TV. Knowing them helps; saying them as a visitor can go badly wrong."
+    },
+    {
+     "t": "phrase",
+     "hanzi": "靠北"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "媽的"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "北七"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "三小"
+    },
+    {
+     "t": "phrase",
+     "hanzi": "幹"
+    }
+   ]
+  }
+ ],
+ "phrases": [
+  {
+   "hanzi": "你好",
+   "display": "Nǐ hǎo",
+   "pinyin": "nǐ hǎo",
+   "zhuyin": "ㄋㄧˇ ㄏㄠˇ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ]
+   ],
+   "english": "Hello",
+   "rank": 0,
+   "note": "Two 3rd tones in a row: the first becomes a 2nd tone, so it's said ní hǎo."
+  },
+  {
+   "hanzi": "不要",
+   "display": "Bù yào",
+   "pinyin": "bù yào",
+   "zhuyin": "ㄅㄨˋ ㄧㄠˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ]
+   ],
+   "english": "Don't want; no thanks",
+   "rank": 1,
+   "note": "不 bù becomes bú before a 4th tone: bú yào."
+  },
+  {
+   "hanzi": "一個",
+   "display": "Yī gè",
+   "pinyin": "yī gè",
+   "zhuyin": "ㄧ ㄍㄜˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     4
+    ]
+   ],
+   "english": "One (of something)",
+   "rank": 2,
+   "note": "一 yī becomes yí before a 4th tone and yì before the other tones: yí gè."
+  },
+  {
+   "hanzi": "您好",
+   "display": "Nín hǎo",
+   "pinyin": "nín hǎo",
+   "zhuyin": "ㄋㄧㄣˊ ㄏㄠˇ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "english": "Hello (polite)",
+   "rank": 3,
+   "note": "what shop staff say to customers"
+  },
+  {
+   "hanzi": "哈囉",
+   "display": "Hā luó",
+   "pinyin": "hā luó",
+   "zhuyin": "ㄏㄚ ㄌㄨㄛˊ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ]
+   ],
+   "english": "Hi",
+   "rank": 4,
+   "note": "casual, from English \"hello\""
+  },
+  {
+   "hanzi": "早安",
+   "display": "Zǎo ān",
+   "pinyin": "zǎo ān",
+   "zhuyin": "ㄗㄠˇ ㄢ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     5
+    ]
+   ],
+   "english": "Good morning",
+   "rank": 5
+  },
+  {
+   "hanzi": "謝謝",
+   "display": "Xièxie",
+   "pinyin": "xiè xie",
+   "zhuyin": "ㄒㄧㄝˋ ˙ㄒㄧㄝ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     5
+    ]
+   ],
+   "english": "Thank you",
+   "rank": 6
+  },
+  {
+   "hanzi": "不客氣",
+   "display": "Bù kèqì",
+   "pinyin": "bù kè qì",
+   "zhuyin": "ㄅㄨˋ ㄎㄜˋ ㄑㄧˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     5,
+     6
+    ]
+   ],
+   "english": "You're welcome",
+   "rank": 7
+  },
+  {
+   "hanzi": "不好意思",
+   "display": "Bù hǎoyìsi",
+   "pinyin": "bù hǎo yì si",
+   "zhuyin": "ㄅㄨˋ ㄏㄠˇ ㄧˋ ˙ㄙ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     8,
+     9
+    ]
+   ],
+   "english": "Excuse me; sorry",
+   "rank": 8,
+   "note": "to get attention, squeeze past, or for a small mistake"
+  },
+  {
+   "hanzi": "對不起",
+   "display": "Duìbùqǐ",
+   "pinyin": "duì bù qǐ",
+   "zhuyin": "ㄉㄨㄟˋ ㄅㄨˋ ㄑㄧˇ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     5,
+     6
+    ]
+   ],
+   "english": "I'm sorry",
+   "rank": 9,
+   "note": "for a real apology"
+  },
+  {
+   "hanzi": "沒關係",
+   "display": "Méi guānxi",
+   "pinyin": "méi guān xi",
+   "zhuyin": "ㄇㄟˊ ㄍㄨㄢ ˙ㄒㄧ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     7
+    ],
+    [
+     8,
+     9
+    ]
+   ],
+   "english": "That's OK; never mind",
+   "rank": 10
+  },
+  {
+   "hanzi": "請問",
+   "display": "Qǐngwèn",
+   "pinyin": "qǐng wèn",
+   "zhuyin": "ㄑㄧㄥˇ ㄨㄣˋ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "english": "Excuse me, may I ask…",
+   "rank": 11,
+   "note": "start any question with it"
+  },
+  {
+   "hanzi": "再見",
+   "display": "Zàijiàn",
+   "pinyin": "zài jiàn",
+   "zhuyin": "ㄗㄞˋ ㄐㄧㄢˋ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "english": "Goodbye",
+   "rank": 12
+  },
+  {
+   "hanzi": "掰掰",
+   "display": "Bāibāi",
+   "pinyin": "bāi bāi",
+   "zhuyin": "ㄅㄞ ㄅㄞ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     5
+    ]
+   ],
+   "english": "Bye-bye",
+   "rank": 13,
+   "note": "very common in Taiwan, even among adults"
+  },
+  {
+   "hanzi": "好",
+   "display": "Hǎo",
+   "pinyin": "hǎo",
+   "zhuyin": "ㄏㄠˇ",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "english": "OK; good",
+   "rank": 14
+  },
+  {
+   "hanzi": "對",
+   "display": "Duì",
+   "pinyin": "duì",
+   "zhuyin": "ㄉㄨㄟˋ",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "english": "Yes, that's right",
+   "rank": 15
+  },
+  {
+   "hanzi": "不對",
+   "display": "Bù duì",
+   "pinyin": "bù duì",
+   "zhuyin": "ㄅㄨˋ ㄉㄨㄟˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ]
+   ],
+   "english": "No, that's not right",
+   "rank": 16
+  },
+  {
+   "hanzi": "聽不懂",
+   "display": "Tīng bù dǒng",
+   "pinyin": "tīng bù dǒng",
+   "zhuyin": "ㄊㄧㄥ ㄅㄨˋ ㄉㄨㄥˇ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     8,
+     11
+    ]
+   ],
+   "english": "I don't understand",
+   "rank": 17,
+   "note": "literally \"hear, not understand\""
+  },
+  {
+   "hanzi": "我不會說中文",
+   "display": "Wǒ bù huì shuō Zhōngwén",
+   "pinyin": "wǒ bù huì shuō zhōng wén",
+   "zhuyin": "ㄨㄛˇ ㄅㄨˋ ㄏㄨㄟˋ ㄕㄨㄛ ㄓㄨㄥ ㄨㄣˊ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     6,
+     8
+    ],
+    [
+     10,
+     13
+    ],
+    [
+     15,
+     19
+    ],
+    [
+     20,
+     22
+    ]
+   ],
+   "english": "I don't speak Chinese",
+   "rank": 18
+  },
+  {
+   "hanzi": "我會說一點中文",
+   "display": "Wǒ huì shuō yīdiǎn Zhōngwén",
+   "pinyin": "wǒ huì shuō yī diǎn zhōng wén",
+   "zhuyin": "ㄨㄛˇ ㄏㄨㄟˋ ㄕㄨㄛ ㄧ ㄉㄧㄢˇ ㄓㄨㄥ ㄨㄣˊ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     10
+    ],
+    [
+     12,
+     13
+    ],
+    [
+     14,
+     17
+    ],
+    [
+     19,
+     23
+    ],
+    [
+     24,
+     26
+    ]
+   ],
+   "english": "I speak a little Chinese",
+   "rank": 19
+  },
+  {
+   "hanzi": "你會說英文嗎？",
+   "display": "Nǐ huì shuō Yīngwén ma?",
+   "pinyin": "nǐ huì shuō yīng wén ma",
+   "zhuyin": "ㄋㄧˇ ㄏㄨㄟˋ ㄕㄨㄛ ㄧㄥ ㄨㄣˊ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     10
+    ],
+    [
+     12,
+     15
+    ],
+    [
+     16,
+     18
+    ],
+    [
+     20,
+     21
+    ]
+   ],
+   "english": "Do you speak English?",
+   "rank": 20
+  },
+  {
+   "hanzi": "可以說慢一點嗎？",
+   "display": "Kěyǐ shuō màn yīdiǎn ma?",
+   "pinyin": "kě yǐ shuō màn yī diǎn ma",
+   "zhuyin": "ㄎㄜˇ ㄧˇ ㄕㄨㄛ ㄇㄢˋ ㄧ ㄉㄧㄢˇ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     5,
+     8
+    ],
+    [
+     10,
+     12
+    ],
+    [
+     14,
+     15
+    ],
+    [
+     16,
+     19
+    ],
+    [
+     21,
+     22
+    ]
+   ],
+   "english": "Could you say it more slowly?",
+   "rank": 21
+  },
+  {
+   "hanzi": "可以再說一次嗎？",
+   "display": "Kěyǐ zài shuō yī cì ma?",
+   "pinyin": "kě yǐ zài shuō yī cì ma",
+   "zhuyin": "ㄎㄜˇ ㄧˇ ㄗㄞˋ ㄕㄨㄛ ㄧ ㄘˋ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     9,
+     12
+    ],
+    [
+     14,
+     15
+    ],
+    [
+     17,
+     18
+    ],
+    [
+     20,
+     21
+    ]
+   ],
+   "english": "Could you say that again?",
+   "rank": 22
+  },
+  {
+   "hanzi": "可以寫下來嗎？",
+   "display": "Kěyǐ xiě xiàlái ma?",
+   "pinyin": "kě yǐ xiě xià lái ma",
+   "zhuyin": "ㄎㄜˇ ㄧˇ ㄒㄧㄝˇ ㄒㄧㄚˋ ㄌㄞˊ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     9,
+     11
+    ],
+    [
+     12,
+     14
+    ],
+    [
+     16,
+     17
+    ]
+   ],
+   "english": "Could you write it down?",
+   "rank": 23
+  },
+  {
+   "hanzi": "這是什麼？",
+   "display": "Zhè shì shénme?",
+   "pinyin": "zhè shì shén me",
+   "zhuyin": "ㄓㄜˋ ㄕˋ ㄕㄣˊ ˙ㄇㄜ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     8,
+     11
+    ],
+    [
+     12,
+     13
+    ]
+   ],
+   "english": "What's this?",
+   "rank": 24
+  },
+  {
+   "hanzi": "這個",
+   "display": "Zhège",
+   "pinyin": "zhè ge",
+   "zhuyin": "ㄓㄜˋ ˙ㄍㄜ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     4
+    ]
+   ],
+   "english": "This one",
+   "rank": 25,
+   "note": "point as you say it"
+  },
+  {
+   "hanzi": "那個",
+   "display": "Nàge",
+   "pinyin": "nà ge",
+   "zhuyin": "ㄋㄚˋ ˙ㄍㄜ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     3
+    ]
+   ],
+   "english": "That one",
+   "rank": 26
+  },
+  {
+   "hanzi": "可以嗎？",
+   "display": "Kěyǐ ma?",
+   "pinyin": "kě yǐ ma",
+   "zhuyin": "ㄎㄜˇ ㄧˇ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     5,
+     6
+    ]
+   ],
+   "english": "Is that OK? May I?",
+   "rank": 27
+  },
+  {
+   "hanzi": "可以",
+   "display": "Kěyǐ",
+   "pinyin": "kě yǐ",
+   "zhuyin": "ㄎㄜˇ ㄧˇ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     3
+    ]
+   ],
+   "english": "Yes, that's fine",
+   "rank": 28
+  },
+  {
+   "hanzi": "沒問題",
+   "display": "Méi wèntí",
+   "pinyin": "méi wèn tí",
+   "zhuyin": "ㄇㄟˊ ㄨㄣˋ ㄊㄧˊ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     8
+    ]
+   ],
+   "english": "No problem",
+   "rank": 29
+  },
+  {
+   "hanzi": "零",
+   "display": "líng",
+   "pinyin": "líng",
+   "zhuyin": "ㄌㄧㄥˊ",
+   "spans": [
+    [
+     0,
+     3
+    ]
+   ],
+   "english": "0",
+   "rank": 30
+  },
+  {
+   "hanzi": "一",
+   "display": "yī",
+   "pinyin": "yī",
+   "zhuyin": "ㄧ",
+   "spans": [
+    [
+     0,
+     1
+    ]
+   ],
+   "english": "1",
+   "rank": 31
+  },
+  {
+   "hanzi": "二",
+   "display": "èr",
+   "pinyin": "èr",
+   "zhuyin": "ㄦˋ",
+   "spans": [
+    [
+     0,
+     1
+    ]
+   ],
+   "english": "2",
+   "rank": 32
+  },
+  {
+   "hanzi": "三",
+   "display": "sān",
+   "pinyin": "sān",
+   "zhuyin": "ㄙㄢ",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "english": "3",
+   "rank": 33
+  },
+  {
+   "hanzi": "四",
+   "display": "sì",
+   "pinyin": "sì",
+   "zhuyin": "ㄙˋ",
+   "spans": [
+    [
+     0,
+     1
+    ]
+   ],
+   "english": "4",
+   "rank": 34
+  },
+  {
+   "hanzi": "五",
+   "display": "wǔ",
+   "pinyin": "wǔ",
+   "zhuyin": "ㄨˇ",
+   "spans": [
+    [
+     0,
+     1
+    ]
+   ],
+   "english": "5",
+   "rank": 35
+  },
+  {
+   "hanzi": "六",
+   "display": "liù",
+   "pinyin": "liù",
+   "zhuyin": "ㄌㄧㄡˋ",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "english": "6",
+   "rank": 36
+  },
+  {
+   "hanzi": "七",
+   "display": "qī",
+   "pinyin": "qī",
+   "zhuyin": "ㄑㄧ",
+   "spans": [
+    [
+     0,
+     1
+    ]
+   ],
+   "english": "7",
+   "rank": 37
+  },
+  {
+   "hanzi": "八",
+   "display": "bā",
+   "pinyin": "bā",
+   "zhuyin": "ㄅㄚ",
+   "spans": [
+    [
+     0,
+     1
+    ]
+   ],
+   "english": "8",
+   "rank": 38
+  },
+  {
+   "hanzi": "九",
+   "display": "jiǔ",
+   "pinyin": "jiǔ",
+   "zhuyin": "ㄐㄧㄡˇ",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "english": "9",
+   "rank": 39
+  },
+  {
+   "hanzi": "十",
+   "display": "shí",
+   "pinyin": "shí",
+   "zhuyin": "ㄕˊ",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "english": "10",
+   "rank": 40
+  },
+  {
+   "hanzi": "十一",
+   "display": "shíyī",
+   "pinyin": "shí yī",
+   "zhuyin": "ㄕˊ ㄧ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     4
+    ]
+   ],
+   "english": "11",
+   "rank": 41
+  },
+  {
+   "hanzi": "二十",
+   "display": "èrshí",
+   "pinyin": "èr shí",
+   "zhuyin": "ㄦˋ ㄕˊ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     4
+    ]
+   ],
+   "english": "20",
+   "rank": 42
+  },
+  {
+   "hanzi": "三十五",
+   "display": "sānshíwǔ",
+   "pinyin": "sān shí wǔ",
+   "zhuyin": "ㄙㄢ ㄕˊ ㄨˇ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "english": "35",
+   "rank": 43
+  },
+  {
+   "hanzi": "一百",
+   "display": "yībǎi",
+   "pinyin": "yī bǎi",
+   "zhuyin": "ㄧ ㄅㄞˇ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     4
+    ]
+   ],
+   "english": "100",
+   "rank": 44
+  },
+  {
+   "hanzi": "一千",
+   "display": "yīqiān",
+   "pinyin": "yī qiān",
+   "zhuyin": "ㄧ ㄑㄧㄢ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     5
+    ]
+   ],
+   "english": "1,000",
+   "rank": 45
+  },
+  {
+   "hanzi": "一萬",
+   "display": "yīwàn",
+   "pinyin": "yī wàn",
+   "zhuyin": "ㄧ ㄨㄢˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     4
+    ]
+   ],
+   "english": "10,000",
+   "rank": 46
+  },
+  {
+   "hanzi": "兩個",
+   "display": "liǎng gè",
+   "pinyin": "liǎng gè",
+   "zhuyin": "ㄌㄧㄤˇ ㄍㄜˋ",
+   "spans": [
+    [
+     0,
+     4
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "english": "Two (of something)",
+   "rank": 47
+  },
+  {
+   "hanzi": "兩百",
+   "display": "liǎngbǎi",
+   "pinyin": "liǎng bǎi",
+   "zhuyin": "ㄌㄧㄤˇ ㄅㄞˇ",
+   "spans": [
+    [
+     0,
+     4
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "english": "200",
+   "rank": 48
+  },
+  {
+   "hanzi": "一百零五",
+   "display": "yībǎi líng wǔ",
+   "pinyin": "yī bǎi líng wǔ",
+   "zhuyin": "ㄧ ㄅㄞˇ ㄌㄧㄥˊ ㄨˇ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     4
+    ],
+    [
+     6,
+     9
+    ],
+    [
+     11,
+     12
+    ]
+   ],
+   "english": "105",
+   "rank": 49
+  },
+  {
+   "hanzi": "多少錢？",
+   "display": "Duōshǎo qián?",
+   "pinyin": "duō shǎo qián",
+   "zhuyin": "ㄉㄨㄛ ㄕㄠˇ ㄑㄧㄢˊ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     8,
+     11
+    ]
+   ],
+   "english": "How much is it?",
+   "rank": 50
+  },
+  {
+   "hanzi": "一共多少錢？",
+   "display": "Yīgòng duōshǎo qián?",
+   "pinyin": "yī gòng duō shǎo qián",
+   "zhuyin": "ㄧ ㄍㄨㄥˋ ㄉㄨㄛ ㄕㄠˇ ㄑㄧㄢˊ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     5
+    ],
+    [
+     7,
+     9
+    ],
+    [
+     10,
+     13
+    ],
+    [
+     15,
+     18
+    ]
+   ],
+   "english": "How much is it altogether?",
+   "rank": 51
+  },
+  {
+   "hanzi": "五十塊",
+   "display": "Wǔshí kuài",
+   "pinyin": "wǔ shí kuài",
+   "zhuyin": "ㄨˇ ㄕˊ ㄎㄨㄞˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     4
+    ],
+    [
+     6,
+     9
+    ]
+   ],
+   "english": "NT$50",
+   "rank": 52
+  },
+  {
+   "hanzi": "一百塊",
+   "display": "Yībǎi kuài",
+   "pinyin": "yī bǎi kuài",
+   "zhuyin": "ㄧ ㄅㄞˇ ㄎㄨㄞˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     4
+    ],
+    [
+     6,
+     9
+    ]
+   ],
+   "english": "NT$100",
+   "rank": 53
+  },
+  {
+   "hanzi": "三百五十塊",
+   "display": "Sānbǎi wǔshí kuài",
+   "pinyin": "sān bǎi wǔ shí kuài",
+   "zhuyin": "ㄙㄢ ㄅㄞˇ ㄨˇ ㄕˊ ㄎㄨㄞˋ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     9,
+     11
+    ],
+    [
+     13,
+     16
+    ]
+   ],
+   "english": "NT$350",
+   "rank": 54,
+   "note": "often shortened to 三百五 (sān bǎi wǔ)"
+  },
+  {
+   "hanzi": "太貴了",
+   "display": "Tài guì le",
+   "pinyin": "tài guì le",
+   "zhuyin": "ㄊㄞˋ ㄍㄨㄟˋ ˙ㄌㄜ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     8,
+     9
+    ]
+   ],
+   "english": "That's too expensive",
+   "rank": 55
+  },
+  {
+   "hanzi": "可以刷卡嗎？",
+   "display": "Kěyǐ shuākǎ ma?",
+   "pinyin": "kě yǐ shuā kǎ ma",
+   "zhuyin": "ㄎㄜˇ ㄧˇ ㄕㄨㄚ ㄎㄚˇ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     5,
+     8
+    ],
+    [
+     9,
+     10
+    ],
+    [
+     12,
+     13
+    ]
+   ],
+   "english": "Can I pay by card?",
+   "rank": 56
+  },
+  {
+   "hanzi": "現金",
+   "display": "Xiànjīn",
+   "pinyin": "xiàn jīn",
+   "zhuyin": "ㄒㄧㄢˋ ㄐㄧㄣ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "english": "Cash",
+   "rank": 57
+  },
+  {
+   "hanzi": "只收現金",
+   "display": "Zhǐ shōu xiànjīn",
+   "pinyin": "zhǐ shōu xiàn jīn",
+   "zhuyin": "ㄓˇ ㄕㄡ ㄒㄧㄢˋ ㄐㄧㄣ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     7
+    ],
+    [
+     9,
+     12
+    ],
+    [
+     13,
+     15
+    ]
+   ],
+   "english": "Cash only",
+   "rank": 58,
+   "hear": true
+  },
+  {
+   "hanzi": "找你五十塊",
+   "display": "Zhǎo nǐ wǔshí kuài",
+   "pinyin": "zhǎo nǐ wǔ shí kuài",
+   "zhuyin": "ㄓㄠˇ ㄋㄧˇ ㄨˇ ㄕˊ ㄎㄨㄞˋ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     10,
+     12
+    ],
+    [
+     14,
+     17
+    ]
+   ],
+   "english": "Here's NT$50 change",
+   "rank": 59,
+   "hear": true
+  },
+  {
+   "hanzi": "我要咖啡",
+   "display": "Wǒ yào kāfēi",
+   "pinyin": "wǒ yào kā fēi",
+   "zhuyin": "ㄨㄛˇ ㄧㄠˋ ㄎㄚ ㄈㄟ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     9,
+     11
+    ]
+   ],
+   "english": "I'd like coffee",
+   "rank": 60
+  },
+  {
+   "hanzi": "我喜歡台灣",
+   "display": "Wǒ xǐhuān Táiwān",
+   "pinyin": "wǒ xǐ huān tái wān",
+   "zhuyin": "ㄨㄛˇ ㄒㄧˇ ㄏㄨㄢ ㄊㄞˊ ㄨㄢ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     5,
+     8
+    ],
+    [
+     10,
+     12
+    ],
+    [
+     13,
+     15
+    ]
+   ],
+   "english": "I like Taiwan",
+   "rank": 61
+  },
+  {
+   "hanzi": "我是學生",
+   "display": "Wǒ shì xuéshēng",
+   "pinyin": "wǒ shì xué shēng",
+   "zhuyin": "ㄨㄛˇ ㄕˋ ㄒㄩㄝˊ ㄕㄥ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     9
+    ],
+    [
+     10,
+     14
+    ]
+   ],
+   "english": "I'm a student",
+   "rank": 62
+  },
+  {
+   "hanzi": "這個很好吃",
+   "display": "Zhège hěn hǎochī",
+   "pinyin": "zhè ge hěn hǎo chī",
+   "zhuyin": "ㄓㄜˋ ˙ㄍㄜ ㄏㄣˇ ㄏㄠˇ ㄔ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     6,
+     8
+    ],
+    [
+     10,
+     12
+    ],
+    [
+     13,
+     15
+    ]
+   ],
+   "english": "This is delicious",
+   "rank": 63
+  },
+  {
+   "hanzi": "有廁所嗎？",
+   "display": "Yǒu cèsuǒ ma?",
+   "pinyin": "yǒu cè suǒ ma",
+   "zhuyin": "ㄧㄡˇ ㄘㄜˋ ㄙㄨㄛˇ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     6,
+     8
+    ],
+    [
+     10,
+     11
+    ]
+   ],
+   "english": "Is there a bathroom?",
+   "rank": 64
+  },
+  {
+   "hanzi": "這個辣嗎？",
+   "display": "Zhège là ma?",
+   "pinyin": "zhè ge là ma",
+   "zhuyin": "ㄓㄜˋ ˙ㄍㄜ ㄌㄚˋ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     9,
+     10
+    ]
+   ],
+   "english": "Is this spicy?",
+   "rank": 65
+  },
+  {
+   "hanzi": "不辣",
+   "display": "Bù là",
+   "pinyin": "bù là",
+   "zhuyin": "ㄅㄨˋ ㄌㄚˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     4
+    ]
+   ],
+   "english": "Not spicy",
+   "rank": 66
+  },
+  {
+   "hanzi": "沒有",
+   "display": "Méiyǒu",
+   "pinyin": "méi yǒu",
+   "zhuyin": "ㄇㄟˊ ㄧㄡˇ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     5
+    ]
+   ],
+   "english": "Don't have; there isn't any",
+   "rank": 67
+  },
+  {
+   "hanzi": "廁所在哪裡？",
+   "display": "Cèsuǒ zài nǎlǐ?",
+   "pinyin": "cè suǒ zài nǎ lǐ",
+   "zhuyin": "ㄘㄜˋ ㄙㄨㄛˇ ㄗㄞˋ ㄋㄚˇ ㄌㄧˇ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     4
+    ],
+    [
+     6,
+     8
+    ],
+    [
+     10,
+     11
+    ],
+    [
+     12,
+     13
+    ]
+   ],
+   "english": "Where's the bathroom?",
+   "rank": 68
+  },
+  {
+   "hanzi": "你要什麼？",
+   "display": "Nǐ yào shénme?",
+   "pinyin": "nǐ yào shén me",
+   "zhuyin": "ㄋㄧˇ ㄧㄠˋ ㄕㄣˊ ˙ㄇㄜ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     10
+    ],
+    [
+     11,
+     12
+    ]
+   ],
+   "english": "What would you like?",
+   "rank": 69
+  },
+  {
+   "hanzi": "一個人",
+   "display": "Yī gè rén",
+   "pinyin": "yī gè rén",
+   "zhuyin": "ㄧ ㄍㄜˋ ㄖㄣˊ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     6,
+     8
+    ]
+   ],
+   "english": "One person",
+   "rank": 70
+  },
+  {
+   "hanzi": "我要兩個",
+   "display": "Wǒ yào liǎng gè",
+   "pinyin": "wǒ yào liǎng gè",
+   "zhuyin": "ㄨㄛˇ ㄧㄠˋ ㄌㄧㄤˇ ㄍㄜˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     11
+    ],
+    [
+     13,
+     14
+    ]
+   ],
+   "english": "I'd like two",
+   "rank": 71
+  },
+  {
+   "hanzi": "我要這個",
+   "display": "Wǒ yào zhège",
+   "pinyin": "wǒ yào zhè ge",
+   "zhuyin": "ㄨㄛˇ ㄧㄠˋ ㄓㄜˋ ˙ㄍㄜ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     9
+    ],
+    [
+     10,
+     11
+    ]
+   ],
+   "english": "I'd like this one",
+   "rank": 72,
+   "note": "point at the menu as you say it"
+  },
+  {
+   "hanzi": "內用還是外帶？",
+   "display": "Nèiyòng háishì wàidài?",
+   "pinyin": "nèi yòng hái shì wài dài",
+   "zhuyin": "ㄋㄟˋ ㄩㄥˋ ㄏㄞˊ ㄕˋ ㄨㄞˋ ㄉㄞˋ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     8,
+     10
+    ],
+    [
+     11,
+     13
+    ],
+    [
+     15,
+     17
+    ],
+    [
+     18,
+     20
+    ]
+   ],
+   "english": "For here or to go?",
+   "rank": 73,
+   "hear": true
+  },
+  {
+   "hanzi": "內用",
+   "display": "Nèiyòng",
+   "pinyin": "nèi yòng",
+   "zhuyin": "ㄋㄟˋ ㄩㄥˋ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "english": "For here",
+   "rank": 74
+  },
+  {
+   "hanzi": "外帶",
+   "display": "Wàidài",
+   "pinyin": "wài dài",
+   "zhuyin": "ㄨㄞˋ ㄉㄞˋ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     5
+    ]
+   ],
+   "english": "To go",
+   "rank": 75
+  },
+  {
+   "hanzi": "不要辣",
+   "display": "Bù yào là",
+   "pinyin": "bù yào là",
+   "zhuyin": "ㄅㄨˋ ㄧㄠˋ ㄌㄚˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     8
+    ]
+   ],
+   "english": "Not spicy, please",
+   "rank": 76
+  },
+  {
+   "hanzi": "我吃素",
+   "display": "Wǒ chī sù",
+   "pinyin": "wǒ chī sù",
+   "zhuyin": "ㄨㄛˇ ㄔ ㄙㄨˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     8
+    ]
+   ],
+   "english": "I'm vegetarian",
+   "rank": 77,
+   "note": "Taiwan has many vegetarian (素食 sù shí) restaurants"
+  },
+  {
+   "hanzi": "有英文菜單嗎？",
+   "display": "Yǒu Yīngwén càidān ma?",
+   "pinyin": "yǒu yīng wén cài dān ma",
+   "zhuyin": "ㄧㄡˇ ㄧㄥ ㄨㄣˊ ㄘㄞˋ ㄉㄢ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     7
+    ],
+    [
+     8,
+     10
+    ],
+    [
+     12,
+     14
+    ],
+    [
+     15,
+     17
+    ],
+    [
+     19,
+     20
+    ]
+   ],
+   "english": "Do you have an English menu?",
+   "rank": 78
+  },
+  {
+   "hanzi": "好吃",
+   "display": "Hǎochī",
+   "pinyin": "hǎo chī",
+   "zhuyin": "ㄏㄠˇ ㄔ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     5
+    ]
+   ],
+   "english": "Delicious",
+   "rank": 79
+  },
+  {
+   "hanzi": "結帳",
+   "display": "Jiézhàng",
+   "pinyin": "jié zhàng",
+   "zhuyin": "ㄐㄧㄝˊ ㄓㄤˋ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     7
+    ]
+   ],
+   "english": "I'd like to pay",
+   "rank": 80
+  },
+  {
+   "hanzi": "半糖少冰",
+   "display": "Bàn táng shǎo bīng",
+   "pinyin": "bàn táng shǎo bīng",
+   "zhuyin": "ㄅㄢˋ ㄊㄤˊ ㄕㄠˇ ㄅㄧㄥ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     7
+    ],
+    [
+     9,
+     12
+    ],
+    [
+     14,
+     17
+    ]
+   ],
+   "english": "Half sugar, less ice",
+   "rank": 81,
+   "note": "the classic bubble tea order"
+  },
+  {
+   "hanzi": "捷運站在哪裡？",
+   "display": "Jiéyùn zhàn zài nǎlǐ?",
+   "pinyin": "jié yùn zhàn zài nǎ lǐ",
+   "zhuyin": "ㄐㄧㄝˊ ㄩㄣˋ ㄓㄢˋ ㄗㄞˋ ㄋㄚˇ ㄌㄧˇ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     10
+    ],
+    [
+     12,
+     14
+    ],
+    [
+     16,
+     17
+    ],
+    [
+     18,
+     19
+    ]
+   ],
+   "english": "Where's the MRT station?",
+   "rank": 82
+  },
+  {
+   "hanzi": "這裡",
+   "display": "Zhèlǐ",
+   "pinyin": "zhè lǐ",
+   "zhuyin": "ㄓㄜˋ ㄌㄧˇ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     4
+    ]
+   ],
+   "english": "Here",
+   "rank": 83
+  },
+  {
+   "hanzi": "那裡",
+   "display": "Nàlǐ",
+   "pinyin": "nà lǐ",
+   "zhuyin": "ㄋㄚˋ ㄌㄧˇ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     3
+    ]
+   ],
+   "english": "There",
+   "rank": 84
+  },
+  {
+   "hanzi": "我要去台北車站",
+   "display": "Wǒ yào qù Táiběi chēzhàn",
+   "pinyin": "wǒ yào qù tái běi chē zhàn",
+   "zhuyin": "ㄨㄛˇ ㄧㄠˋ ㄑㄩˋ ㄊㄞˊ ㄅㄟˇ ㄔㄜ ㄓㄢˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     10,
+     12
+    ],
+    [
+     13,
+     15
+    ],
+    [
+     17,
+     19
+    ],
+    [
+     20,
+     23
+    ]
+   ],
+   "english": "I want to go to Taipei Main Station",
+   "rank": 85
+  },
+  {
+   "hanzi": "直走",
+   "display": "Zhí zǒu",
+   "pinyin": "zhí zǒu",
+   "zhuyin": "ㄓˊ ㄗㄡˇ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "english": "Go straight on",
+   "rank": 86,
+   "hear": true
+  },
+  {
+   "hanzi": "左轉",
+   "display": "Zuǒ zhuǎn",
+   "pinyin": "zuǒ zhuǎn",
+   "zhuyin": "ㄗㄨㄛˇ ㄓㄨㄢˇ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     8
+    ]
+   ],
+   "english": "Turn left",
+   "rank": 87,
+   "hear": true
+  },
+  {
+   "hanzi": "右轉",
+   "display": "Yòu zhuǎn",
+   "pinyin": "yòu zhuǎn",
+   "zhuyin": "ㄧㄡˋ ㄓㄨㄢˇ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     8
+    ]
+   ],
+   "english": "Turn right",
+   "rank": 88,
+   "hear": true
+  },
+  {
+   "hanzi": "在左邊",
+   "display": "Zài zuǒbiān",
+   "pinyin": "zài zuǒ biān",
+   "zhuyin": "ㄗㄞˋ ㄗㄨㄛˇ ㄅㄧㄢ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     10
+    ]
+   ],
+   "english": "It's on the left",
+   "rank": 89,
+   "hear": true
+  },
+  {
+   "hanzi": "在右邊",
+   "display": "Zài yòubiān",
+   "pinyin": "zài yòu biān",
+   "zhuyin": "ㄗㄞˋ ㄧㄡˋ ㄅㄧㄢ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     10
+    ]
+   ],
+   "english": "It's on the right",
+   "rank": 90,
+   "hear": true
+  },
+  {
+   "hanzi": "很近",
+   "display": "Hěn jìn",
+   "pinyin": "hěn jìn",
+   "zhuyin": "ㄏㄣˇ ㄐㄧㄣˋ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "english": "It's close",
+   "rank": 91,
+   "hear": true
+  },
+  {
+   "hanzi": "很遠",
+   "display": "Hěn yuǎn",
+   "pinyin": "hěn yuǎn",
+   "zhuyin": "ㄏㄣˇ ㄩㄢˇ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     7
+    ]
+   ],
+   "english": "It's far",
+   "rank": 92,
+   "hear": true
+  },
+  {
+   "hanzi": "走路五分鐘",
+   "display": "Zǒulù wǔ fēnzhōng",
+   "pinyin": "zǒu lù wǔ fēn zhōng",
+   "zhuyin": "ㄗㄡˇ ㄌㄨˋ ㄨˇ ㄈㄣ ㄓㄨㄥ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     9,
+     11
+    ],
+    [
+     12,
+     16
+    ]
+   ],
+   "english": "Five minutes' walk",
+   "rank": 93,
+   "hear": true
+  },
+  {
+   "hanzi": "今天",
+   "display": "Jīntiān",
+   "pinyin": "jīn tiān",
+   "zhuyin": "ㄐㄧㄣ ㄊㄧㄢ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "english": "Today",
+   "rank": 94
+  },
+  {
+   "hanzi": "明天",
+   "display": "Míngtiān",
+   "pinyin": "míng tiān",
+   "zhuyin": "ㄇㄧㄥˊ ㄊㄧㄢ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     4,
+     7
+    ]
+   ],
+   "english": "Tomorrow",
+   "rank": 95
+  },
+  {
+   "hanzi": "昨天",
+   "display": "Zuótiān",
+   "pinyin": "zuó tiān",
+   "zhuyin": "ㄗㄨㄛˊ ㄊㄧㄢ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "english": "Yesterday",
+   "rank": 96
+  },
+  {
+   "hanzi": "現在",
+   "display": "Xiànzài",
+   "pinyin": "xiàn zài",
+   "zhuyin": "ㄒㄧㄢˋ ㄗㄞˋ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "english": "Now",
+   "rank": 97
+  },
+  {
+   "hanzi": "現在幾點？",
+   "display": "Xiànzài jǐ diǎn?",
+   "pinyin": "xiàn zài jǐ diǎn",
+   "zhuyin": "ㄒㄧㄢˋ ㄗㄞˋ ㄐㄧˇ ㄉㄧㄢˇ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     11,
+     14
+    ]
+   ],
+   "english": "What time is it?",
+   "rank": 98
+  },
+  {
+   "hanzi": "三點",
+   "display": "Sān diǎn",
+   "pinyin": "sān diǎn",
+   "zhuyin": "ㄙㄢ ㄉㄧㄢˇ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     7
+    ]
+   ],
+   "english": "Three o'clock",
+   "rank": 99
+  },
+  {
+   "hanzi": "三點半",
+   "display": "Sān diǎn bàn",
+   "pinyin": "sān diǎn bàn",
+   "zhuyin": "ㄙㄢ ㄉㄧㄢˇ ㄅㄢˋ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     7
+    ],
+    [
+     9,
+     11
+    ]
+   ],
+   "english": "Half past three",
+   "rank": 100
+  },
+  {
+   "hanzi": "幾點開門？",
+   "display": "Jǐ diǎn kāimén?",
+   "pinyin": "jǐ diǎn kāi mén",
+   "zhuyin": "ㄐㄧˇ ㄉㄧㄢˇ ㄎㄞ ㄇㄣˊ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     8,
+     10
+    ],
+    [
+     11,
+     13
+    ]
+   ],
+   "english": "What time do you open?",
+   "rank": 101
+  },
+  {
+   "hanzi": "幾點關門？",
+   "display": "Jǐ diǎn guānmén?",
+   "pinyin": "jǐ diǎn guān mén",
+   "zhuyin": "ㄐㄧˇ ㄉㄧㄢˇ ㄍㄨㄢ ㄇㄣˊ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     8,
+     11
+    ],
+    [
+     12,
+     14
+    ]
+   ],
+   "english": "What time do you close?",
+   "rank": 102
+  },
+  {
+   "hanzi": "等一下",
+   "display": "Děng yīxià",
+   "pinyin": "děng yī xià",
+   "zhuyin": "ㄉㄥˇ ㄧ ㄒㄧㄚˋ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     7,
+     9
+    ]
+   ],
+   "english": "Wait a moment",
+   "rank": 103
+  },
+  {
+   "hanzi": "星期一",
+   "display": "Xīngqí yī",
+   "pinyin": "xīng qí yī",
+   "zhuyin": "ㄒㄧㄥ ㄑㄧˊ ㄧ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     7,
+     8
+    ]
+   ],
+   "english": "Monday",
+   "rank": 104
+  },
+  {
+   "hanzi": "星期五",
+   "display": "Xīngqí wǔ",
+   "pinyin": "xīng qí wǔ",
+   "zhuyin": "ㄒㄧㄥ ㄑㄧˊ ㄨˇ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     7,
+     8
+    ]
+   ],
+   "english": "Friday",
+   "rank": 105
+  },
+  {
+   "hanzi": "星期天",
+   "display": "Xīngqí tiān",
+   "pinyin": "xīng qí tiān",
+   "zhuyin": "ㄒㄧㄥ ㄑㄧˊ ㄊㄧㄢ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     7,
+     10
+    ]
+   ],
+   "english": "Sunday",
+   "rank": 106
+  },
+  {
+   "hanzi": "媽",
+   "display": "mā",
+   "pinyin": "mā",
+   "zhuyin": "ㄇㄚ",
+   "spans": [
+    [
+     0,
+     1
+    ]
+   ],
+   "english": "Mother",
+   "rank": 107,
+   "note": "ㄇㄚ: no mark for the 1st tone"
+  },
+  {
+   "hanzi": "麻",
+   "display": "má",
+   "pinyin": "má",
+   "zhuyin": "ㄇㄚˊ",
+   "spans": [
+    [
+     0,
+     1
+    ]
+   ],
+   "english": "Numb",
+   "rank": 108,
+   "note": "ㄇㄚˊ"
+  },
+  {
+   "hanzi": "馬",
+   "display": "mǎ",
+   "pinyin": "mǎ",
+   "zhuyin": "ㄇㄚˇ",
+   "spans": [
+    [
+     0,
+     1
+    ]
+   ],
+   "english": "Horse",
+   "rank": 109,
+   "note": "ㄇㄚˇ"
+  },
+  {
+   "hanzi": "罵",
+   "display": "mà",
+   "pinyin": "mà",
+   "zhuyin": "ㄇㄚˋ",
+   "spans": [
+    [
+     0,
+     1
+    ]
+   ],
+   "english": "To scold",
+   "rank": 110,
+   "note": "ㄇㄚˋ"
+  },
+  {
+   "hanzi": "要",
+   "display": "Yào",
+   "pinyin": "yào",
+   "zhuyin": "ㄧㄠˋ",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "english": "Yes, please (I want it)",
+   "rank": 111
+  },
+  {
+   "hanzi": "不用",
+   "display": "Bù yòng",
+   "pinyin": "bù yòng",
+   "zhuyin": "ㄅㄨˋ ㄩㄥˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "english": "No need; no thanks",
+   "rank": 112,
+   "note": "said búyòng"
+  },
+  {
+   "hanzi": "歡迎光臨",
+   "display": "Huānyíng guānglín",
+   "pinyin": "huān yíng guāng lín",
+   "zhuyin": "ㄏㄨㄢ ㄧㄥˊ ㄍㄨㄤ ㄌㄧㄣˊ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     4,
+     7
+    ],
+    [
+     9,
+     13
+    ],
+    [
+     14,
+     16
+    ]
+   ],
+   "english": "Welcome!",
+   "rank": 113,
+   "note": "said every time the door chimes",
+   "hear": true
+  },
+  {
+   "hanzi": "要袋子嗎？",
+   "display": "Yào dàizi ma?",
+   "pinyin": "yào dài zi ma",
+   "zhuyin": "ㄧㄠˋ ㄉㄞˋ ˙ㄗ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     10,
+     11
+    ]
+   ],
+   "english": "Do you need a bag?",
+   "rank": 114,
+   "note": "bags cost a few NT$",
+   "hear": true
+  },
+  {
+   "hanzi": "要加熱嗎？",
+   "display": "Yào jiārè ma?",
+   "pinyin": "yào jiā rè ma",
+   "zhuyin": "ㄧㄠˋ ㄐㄧㄚ ㄖㄜˋ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     10,
+     11
+    ]
+   ],
+   "english": "Shall I heat it up?",
+   "rank": 115,
+   "hear": true
+  },
+  {
+   "hanzi": "有會員嗎？",
+   "display": "Yǒu huìyuán ma?",
+   "pinyin": "yǒu huì yuán ma",
+   "zhuyin": "ㄧㄡˇ ㄏㄨㄟˋ ㄩㄢˊ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     10
+    ],
+    [
+     12,
+     13
+    ]
+   ],
+   "english": "Are you a member?",
+   "rank": 116,
+   "note": "of the store's points app",
+   "hear": true
+  },
+  {
+   "hanzi": "載具？",
+   "display": "Zàijù?",
+   "pinyin": "zài jù",
+   "zhuyin": "ㄗㄞˋ ㄐㄩˋ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     4
+    ]
+   ],
+   "english": "Receipt on your phone?",
+   "rank": 117,
+   "note": "asks for a phone barcode to store the receipt; just say 不用 (bú yòng)",
+   "hear": true
+  },
+  {
+   "hanzi": "一共一百二十塊",
+   "display": "Yīgòng yībǎi èrshí kuài",
+   "pinyin": "yī gòng yī bǎi èr shí kuài",
+   "zhuyin": "ㄧ ㄍㄨㄥˋ ㄧ ㄅㄞˇ ㄦˋ ㄕˊ ㄎㄨㄞˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     5
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     9,
+     11
+    ],
+    [
+     13,
+     14
+    ],
+    [
+     15,
+     17
+    ],
+    [
+     19,
+     22
+    ]
+   ],
+   "english": "That's NT$120 altogether",
+   "rank": 118,
+   "hear": true
+  },
+  {
+   "hanzi": "謝謝光臨",
+   "display": "Xièxie guānglín",
+   "pinyin": "xiè xie guāng lín",
+   "zhuyin": "ㄒㄧㄝˋ ˙ㄒㄧㄝ ㄍㄨㄤ ㄌㄧㄣˊ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     11
+    ],
+    [
+     12,
+     14
+    ]
+   ],
+   "english": "Thanks for coming",
+   "rank": 119,
+   "hear": true
+  },
+  {
+   "hanzi": "一個袋子",
+   "display": "Yī gè dàizi",
+   "pinyin": "yī gè dài zi",
+   "zhuyin": "ㄧ ㄍㄜˋ ㄉㄞˋ ˙ㄗ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     6,
+     8
+    ],
+    [
+     9,
+     10
+    ]
+   ],
+   "english": "One bag, please",
+   "rank": 120
+  },
+  {
+   "hanzi": "可以用悠遊卡嗎？",
+   "display": "Kěyǐ yòng Yōuyóukǎ ma?",
+   "pinyin": "kě yǐ yòng yōu yóu kǎ ma",
+   "zhuyin": "ㄎㄜˇ ㄧˇ ㄩㄥˋ ㄧㄡ ㄧㄡˊ ㄎㄚˇ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     5,
+     8
+    ],
+    [
+     10,
+     12
+    ],
+    [
+     13,
+     15
+    ],
+    [
+     16,
+     17
+    ],
+    [
+     19,
+     20
+    ]
+   ],
+   "english": "Can I pay with an EasyCard?",
+   "rank": 121
+  },
+  {
+   "hanzi": "我要加值",
+   "display": "Wǒ yào jiāzhí",
+   "pinyin": "wǒ yào jiā zhí",
+   "zhuyin": "ㄨㄛˇ ㄧㄠˋ ㄐㄧㄚ ㄓˊ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     9
+    ],
+    [
+     10,
+     12
+    ]
+   ],
+   "english": "I'd like to top up my card",
+   "rank": 122
+  },
+  {
+   "hanzi": "請問有賣雨傘嗎？",
+   "display": "Qǐngwèn yǒu mài yǔsǎn ma?",
+   "pinyin": "qǐng wèn yǒu mài yǔ sǎn ma",
+   "zhuyin": "ㄑㄧㄥˇ ㄨㄣˋ ㄧㄡˇ ㄇㄞˋ ㄩˇ ㄙㄢˇ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     8,
+     10
+    ],
+    [
+     12,
+     14
+    ],
+    [
+     16,
+     17
+    ],
+    [
+     18,
+     20
+    ],
+    [
+     22,
+     23
+    ]
+   ],
+   "english": "Do you sell umbrellas?",
+   "rank": 123
+  },
+  {
+   "hanzi": "發票",
+   "display": "Fāpiào",
+   "pinyin": "fā piào",
+   "zhuyin": "ㄈㄚ ㄆㄧㄠˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     5
+    ]
+   ],
+   "english": "Receipt",
+   "rank": 124,
+   "note": "Taiwan's paper receipts are also lottery tickets, drawn every two months"
+  },
+  {
+   "hanzi": "幾位？",
+   "display": "Jǐ wèi?",
+   "pinyin": "jǐ wèi",
+   "zhuyin": "ㄐㄧˇ ㄨㄟˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ]
+   ],
+   "english": "How many people?",
+   "rank": 125,
+   "hear": true
+  },
+  {
+   "hanzi": "要點什麼？",
+   "display": "Yào diǎn shénme?",
+   "pinyin": "yào diǎn shén me",
+   "zhuyin": "ㄧㄠˋ ㄉㄧㄢˇ ㄕㄣˊ ˙ㄇㄜ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     7
+    ],
+    [
+     9,
+     12
+    ],
+    [
+     13,
+     14
+    ]
+   ],
+   "english": "What would you like to order?",
+   "rank": 126,
+   "hear": true
+  },
+  {
+   "hanzi": "要辣嗎？",
+   "display": "Yào là ma?",
+   "pinyin": "yào là ma",
+   "zhuyin": "ㄧㄠˋ ㄌㄚˋ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     7,
+     8
+    ]
+   ],
+   "english": "Do you want it spicy?",
+   "rank": 127,
+   "hear": true
+  },
+  {
+   "hanzi": "稍等一下",
+   "display": "Shāo děng yīxià",
+   "pinyin": "shāo děng yī xià",
+   "zhuyin": "ㄕㄠ ㄉㄥˇ ㄧ ㄒㄧㄚˋ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     5,
+     8
+    ],
+    [
+     10,
+     11
+    ],
+    [
+     12,
+     14
+    ]
+   ],
+   "english": "Just a moment",
+   "rank": 128,
+   "hear": true
+  },
+  {
+   "hanzi": "兩位",
+   "display": "Liǎng wèi",
+   "pinyin": "liǎng wèi",
+   "zhuyin": "ㄌㄧㄤˇ ㄨㄟˋ",
+   "spans": [
+    [
+     0,
+     4
+    ],
+    [
+     6,
+     8
+    ]
+   ],
+   "english": "Two people",
+   "rank": 129
+  },
+  {
+   "hanzi": "小辣",
+   "display": "Xiǎo là",
+   "pinyin": "xiǎo là",
+   "zhuyin": "ㄒㄧㄠˇ ㄌㄚˋ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     5,
+     6
+    ]
+   ],
+   "english": "Mildly spicy",
+   "rank": 130
+  },
+  {
+   "hanzi": "不要香菜",
+   "display": "Bù yào xiāngcài",
+   "pinyin": "bù yào xiāng cài",
+   "zhuyin": "ㄅㄨˋ ㄧㄠˋ ㄒㄧㄤ ㄘㄞˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     11
+    ],
+    [
+     12,
+     14
+    ]
+   ],
+   "english": "No coriander, please",
+   "rank": 131
+  },
+  {
+   "hanzi": "我對花生過敏",
+   "display": "Wǒ duì huāshēng guòmǐn",
+   "pinyin": "wǒ duì huā shēng guò mǐn",
+   "zhuyin": "ㄨㄛˇ ㄉㄨㄟˋ ㄏㄨㄚ ㄕㄥ ㄍㄨㄛˋ ㄇㄧㄣˇ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     9
+    ],
+    [
+     10,
+     14
+    ],
+    [
+     16,
+     18
+    ],
+    [
+     19,
+     21
+    ]
+   ],
+   "english": "I'm allergic to peanuts",
+   "rank": 132
+  },
+  {
+   "hanzi": "老闆",
+   "display": "Lǎobǎn",
+   "pinyin": "lǎo bǎn",
+   "zhuyin": "ㄌㄠˇ ㄅㄢˇ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     5
+    ]
+   ],
+   "english": "Excuse me! (to the owner)",
+   "rank": 133,
+   "note": "literally \"boss\": how to call a stall or shop owner"
+  },
+  {
+   "hanzi": "可以幫我打包嗎？",
+   "display": "Kěyǐ bāng wǒ dǎbāo ma?",
+   "pinyin": "kě yǐ bāng wǒ dǎ bāo ma",
+   "zhuyin": "ㄎㄜˇ ㄧˇ ㄅㄤ ㄨㄛˇ ㄉㄚˇ ㄅㄠ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     5,
+     8
+    ],
+    [
+     10,
+     11
+    ],
+    [
+     13,
+     14
+    ],
+    [
+     15,
+     17
+    ],
+    [
+     19,
+     20
+    ]
+   ],
+   "english": "Could you pack this up for me?",
+   "rank": 134
+  },
+  {
+   "hanzi": "甜度冰塊呢？",
+   "display": "Tiándù bīngkuài ne?",
+   "pinyin": "tián dù bīng kuài ne",
+   "zhuyin": "ㄊㄧㄢˊ ㄉㄨˋ ㄅㄧㄥ ㄎㄨㄞˋ ˙ㄋㄜ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     7,
+     10
+    ],
+    [
+     11,
+     14
+    ],
+    [
+     16,
+     17
+    ]
+   ],
+   "english": "Sugar and ice?",
+   "rank": 135,
+   "hear": true
+  },
+  {
+   "hanzi": "要大杯還是中杯？",
+   "display": "Yào dà bēi háishì zhōng bēi?",
+   "pinyin": "yào dà bēi hái shì zhōng bēi",
+   "zhuyin": "ㄧㄠˋ ㄉㄚˋ ㄅㄟ ㄏㄞˊ ㄕˋ ㄓㄨㄥ ㄅㄟ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     7,
+     9
+    ],
+    [
+     11,
+     13
+    ],
+    [
+     14,
+     16
+    ],
+    [
+     18,
+     22
+    ],
+    [
+     24,
+     26
+    ]
+   ],
+   "english": "Large or medium?",
+   "rank": 136,
+   "hear": true
+  },
+  {
+   "hanzi": "一杯珍珠奶茶",
+   "display": "Yī bēi zhēnzhū nǎichá",
+   "pinyin": "yī bēi zhēn zhū nǎi chá",
+   "zhuyin": "ㄧ ㄅㄟ ㄓㄣ ㄓㄨ ㄋㄞˇ ㄔㄚˊ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     10
+    ],
+    [
+     11,
+     13
+    ],
+    [
+     15,
+     17
+    ],
+    [
+     18,
+     20
+    ]
+   ],
+   "english": "One bubble milk tea",
+   "rank": 137
+  },
+  {
+   "hanzi": "大杯",
+   "display": "Dà bēi",
+   "pinyin": "dà bēi",
+   "zhuyin": "ㄉㄚˋ ㄅㄟ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ]
+   ],
+   "english": "Large",
+   "rank": 138
+  },
+  {
+   "hanzi": "中杯",
+   "display": "Zhōng bēi",
+   "pinyin": "zhōng bēi",
+   "zhuyin": "ㄓㄨㄥ ㄅㄟ",
+   "spans": [
+    [
+     0,
+     4
+    ],
+    [
+     6,
+     8
+    ]
+   ],
+   "english": "Medium",
+   "rank": 139
+  },
+  {
+   "hanzi": "全糖",
+   "display": "Quán táng",
+   "pinyin": "quán táng",
+   "zhuyin": "ㄑㄩㄢˊ ㄊㄤˊ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     5,
+     8
+    ]
+   ],
+   "english": "Full sugar",
+   "rank": 140
+  },
+  {
+   "hanzi": "微糖",
+   "display": "Wéi táng",
+   "pinyin": "wéi táng",
+   "zhuyin": "ㄨㄟˊ ㄊㄤˊ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     7
+    ]
+   ],
+   "english": "A little sugar",
+   "rank": 141
+  },
+  {
+   "hanzi": "無糖",
+   "display": "Wú táng",
+   "pinyin": "wú táng",
+   "zhuyin": "ㄨˊ ㄊㄤˊ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "english": "No sugar",
+   "rank": 142
+  },
+  {
+   "hanzi": "去冰",
+   "display": "Qù bīng",
+   "pinyin": "qù bīng",
+   "zhuyin": "ㄑㄩˋ ㄅㄧㄥ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "english": "No ice",
+   "rank": 143
+  },
+  {
+   "hanzi": "熱的",
+   "display": "Rè de",
+   "pinyin": "rè de",
+   "zhuyin": "ㄖㄜˋ ˙ㄉㄜ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     4
+    ]
+   ],
+   "english": "Hot",
+   "rank": 144
+  },
+  {
+   "hanzi": "一杯熱美式",
+   "display": "Yī bēi rè měishì",
+   "pinyin": "yī bēi rè měi shì",
+   "zhuyin": "ㄧ ㄅㄟ ㄖㄜˋ ㄇㄟˇ ㄕˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     10,
+     12
+    ],
+    [
+     13,
+     15
+    ]
+   ],
+   "english": "One hot Americano",
+   "rank": 145
+  },
+  {
+   "hanzi": "一杯冰拿鐵",
+   "display": "Yī bēi bīng nátiě",
+   "pinyin": "yī bēi bīng ná tiě",
+   "zhuyin": "ㄧ ㄅㄟ ㄅㄧㄥ ㄋㄚˊ ㄊㄧㄝˇ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     10
+    ],
+    [
+     12,
+     13
+    ],
+    [
+     14,
+     16
+    ]
+   ],
+   "english": "One iced latte",
+   "rank": 146
+  },
+  {
+   "hanzi": "不要吸管",
+   "display": "Bù yào xīguǎn",
+   "pinyin": "bù yào xī guǎn",
+   "zhuyin": "ㄅㄨˋ ㄧㄠˋ ㄒㄧ ㄍㄨㄢˇ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     9,
+     12
+    ]
+   ],
+   "english": "No straw, please",
+   "rank": 147
+  },
+  {
+   "hanzi": "下一站",
+   "display": "Xià yī zhàn",
+   "pinyin": "xià yī zhàn",
+   "zhuyin": "ㄒㄧㄚˋ ㄧ ㄓㄢˋ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     7,
+     10
+    ]
+   ],
+   "english": "Next stop",
+   "rank": 148,
+   "hear": true
+  },
+  {
+   "hanzi": "往淡水",
+   "display": "Wǎng Dànshuǐ",
+   "pinyin": "wǎng dàn shuǐ",
+   "zhuyin": "ㄨㄤˇ ㄉㄢˋ ㄕㄨㄟˇ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     8,
+     11
+    ]
+   ],
+   "english": "Towards Tamsui",
+   "rank": 149,
+   "note": "MRT trains are named by their last stop",
+   "hear": true
+  },
+  {
+   "hanzi": "到了",
+   "display": "Dào le",
+   "pinyin": "dào le",
+   "zhuyin": "ㄉㄠˋ ˙ㄌㄜ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     5
+    ]
+   ],
+   "english": "We're here",
+   "rank": 150,
+   "hear": true
+  },
+  {
+   "hanzi": "公車站在哪裡？",
+   "display": "Gōngchē zhàn zài nǎlǐ?",
+   "pinyin": "gōng chē zhàn zài nǎ lǐ",
+   "zhuyin": "ㄍㄨㄥ ㄔㄜ ㄓㄢˋ ㄗㄞˋ ㄋㄚˇ ㄌㄧˇ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     8,
+     11
+    ],
+    [
+     13,
+     15
+    ],
+    [
+     17,
+     18
+    ],
+    [
+     19,
+     20
+    ]
+   ],
+   "english": "Where's the bus stop?",
+   "rank": 151
+  },
+  {
+   "hanzi": "我要去這裡",
+   "display": "Wǒ yào qù zhèlǐ",
+   "pinyin": "wǒ yào qù zhè lǐ",
+   "zhuyin": "ㄨㄛˇ ㄧㄠˋ ㄑㄩˋ ㄓㄜˋ ㄌㄧˇ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     10,
+     12
+    ],
+    [
+     13,
+     14
+    ]
+   ],
+   "english": "I want to go here",
+   "rank": 152,
+   "note": "point at the address"
+  },
+  {
+   "hanzi": "請到台北車站",
+   "display": "Qǐng dào Táiběi chēzhàn",
+   "pinyin": "qǐng dào tái běi chē zhàn",
+   "zhuyin": "ㄑㄧㄥˇ ㄉㄠˋ ㄊㄞˊ ㄅㄟˇ ㄔㄜ ㄓㄢˋ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     9,
+     11
+    ],
+    [
+     12,
+     14
+    ],
+    [
+     16,
+     18
+    ],
+    [
+     19,
+     22
+    ]
+   ],
+   "english": "To Taipei Main Station, please",
+   "rank": 153
+  },
+  {
+   "hanzi": "這班車有到九份嗎？",
+   "display": "Zhè bān chē yǒu dào Jiǔfèn ma?",
+   "pinyin": "zhè bān chē yǒu dào jiǔ fèn ma",
+   "zhuyin": "ㄓㄜˋ ㄅㄢ ㄔㄜ ㄧㄡˇ ㄉㄠˋ ㄐㄧㄡˇ ㄈㄣˋ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     8,
+     10
+    ],
+    [
+     12,
+     14
+    ],
+    [
+     16,
+     18
+    ],
+    [
+     20,
+     22
+    ],
+    [
+     23,
+     25
+    ],
+    [
+     27,
+     28
+    ]
+   ],
+   "english": "Does this bus go to Jiufen?",
+   "rank": 154
+  },
+  {
+   "hanzi": "在這裡停",
+   "display": "Zài zhèlǐ tíng",
+   "pinyin": "zài zhè lǐ tíng",
+   "zhuyin": "ㄗㄞˋ ㄓㄜˋ ㄌㄧˇ ㄊㄧㄥˊ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     10,
+     13
+    ]
+   ],
+   "english": "Stop here, please",
+   "rank": 155
+  },
+  {
+   "hanzi": "一張票",
+   "display": "Yī zhāng piào",
+   "pinyin": "yī zhāng piào",
+   "zhuyin": "ㄧ ㄓㄤ ㄆㄧㄠˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     7
+    ],
+    [
+     9,
+     12
+    ]
+   ],
+   "english": "One ticket",
+   "rank": 156
+  },
+  {
+   "hanzi": "高鐵站",
+   "display": "Gāotiě zhàn",
+   "pinyin": "gāo tiě zhàn",
+   "zhuyin": "ㄍㄠ ㄊㄧㄝˇ ㄓㄢˋ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     10
+    ]
+   ],
+   "english": "High-speed rail station",
+   "rank": 157
+  },
+  {
+   "hanzi": "計程車",
+   "display": "Jìchéngchē",
+   "pinyin": "jì chéng chē",
+   "zhuyin": "ㄐㄧˋ ㄔㄥˊ ㄔㄜ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     7,
+     9
+    ]
+   ],
+   "english": "Taxi",
+   "rank": 158
+  },
+  {
+   "hanzi": "可以幫我叫計程車嗎？",
+   "display": "Kěyǐ bāng wǒ jiào jìchéngchē ma?",
+   "pinyin": "kě yǐ bāng wǒ jiào jì chéng chē ma",
+   "zhuyin": "ㄎㄜˇ ㄧˇ ㄅㄤ ㄨㄛˇ ㄐㄧㄠˋ ㄐㄧˋ ㄔㄥˊ ㄔㄜ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     5,
+     8
+    ],
+    [
+     10,
+     11
+    ],
+    [
+     13,
+     16
+    ],
+    [
+     18,
+     19
+    ],
+    [
+     20,
+     24
+    ],
+    [
+     25,
+     27
+    ],
+    [
+     29,
+     30
+    ]
+   ],
+   "english": "Could you call me a taxi?",
+   "rank": 159
+  },
+  {
+   "hanzi": "洗手間在哪裡？",
+   "display": "Xǐshǒujiān zài nǎlǐ?",
+   "pinyin": "xǐ shǒu jiān zài nǎ lǐ",
+   "zhuyin": "ㄒㄧˇ ㄕㄡˇ ㄐㄧㄢ ㄗㄞˋ ㄋㄚˇ ㄌㄧˇ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     5
+    ],
+    [
+     6,
+     9
+    ],
+    [
+     11,
+     13
+    ],
+    [
+     15,
+     16
+    ],
+    [
+     17,
+     18
+    ]
+   ],
+   "english": "Where's the restroom?",
+   "rank": 160,
+   "note": "a little more polite"
+  },
+  {
+   "hanzi": "可以借廁所嗎？",
+   "display": "Kěyǐ jiè cèsuǒ ma?",
+   "pinyin": "kě yǐ jiè cè suǒ ma",
+   "zhuyin": "ㄎㄜˇ ㄧˇ ㄐㄧㄝˋ ㄘㄜˋ ㄙㄨㄛˇ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     9,
+     10
+    ],
+    [
+     11,
+     13
+    ],
+    [
+     15,
+     16
+    ]
+   ],
+   "english": "May I use your bathroom?",
+   "rank": 161
+  },
+  {
+   "hanzi": "我迷路了",
+   "display": "Wǒ mílù le",
+   "pinyin": "wǒ mí lù le",
+   "zhuyin": "ㄨㄛˇ ㄇㄧˊ ㄌㄨˋ ˙ㄌㄜ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     8,
+     9
+    ]
+   ],
+   "english": "I'm lost",
+   "rank": 162
+  },
+  {
+   "hanzi": "怎麼走？",
+   "display": "Zěnme zǒu?",
+   "pinyin": "zěn me zǒu",
+   "zhuyin": "ㄗㄣˇ ˙ㄇㄜ ㄗㄡˇ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     6,
+     8
+    ]
+   ],
+   "english": "How do I get there?",
+   "rank": 163
+  },
+  {
+   "hanzi": "遠嗎？",
+   "display": "Yuǎn ma?",
+   "pinyin": "yuǎn ma",
+   "zhuyin": "ㄩㄢˇ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     5,
+     6
+    ]
+   ],
+   "english": "Is it far?",
+   "rank": 164
+  },
+  {
+   "hanzi": "在對面",
+   "display": "Zài duìmiàn",
+   "pinyin": "zài duì miàn",
+   "zhuyin": "ㄗㄞˋ ㄉㄨㄟˋ ㄇㄧㄢˋ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     10
+    ]
+   ],
+   "english": "It's across the street",
+   "rank": 165,
+   "hear": true
+  },
+  {
+   "hanzi": "在樓上",
+   "display": "Zài lóushàng",
+   "pinyin": "zài lóu shàng",
+   "zhuyin": "ㄗㄞˋ ㄌㄡˊ ㄕㄤˋ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     11
+    ]
+   ],
+   "english": "It's upstairs",
+   "rank": 166,
+   "hear": true
+  },
+  {
+   "hanzi": "在樓下",
+   "display": "Zài lóuxià",
+   "pinyin": "zài lóu xià",
+   "zhuyin": "ㄗㄞˋ ㄌㄡˊ ㄒㄧㄚˋ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     9
+    ]
+   ],
+   "english": "It's downstairs",
+   "rank": 167,
+   "hear": true
+  },
+  {
+   "hanzi": "男廁",
+   "display": "Náncè",
+   "pinyin": "nán cè",
+   "zhuyin": "ㄋㄢˊ ㄘㄜˋ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     4
+    ]
+   ],
+   "english": "Men's bathroom",
+   "rank": 168,
+   "hear": true
+  },
+  {
+   "hanzi": "女廁",
+   "display": "Nǚcè",
+   "pinyin": "nǚ cè",
+   "zhuyin": "ㄋㄩˇ ㄘㄜˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     3
+    ]
+   ],
+   "english": "Women's bathroom",
+   "rank": 169,
+   "hear": true
+  },
+  {
+   "hanzi": "出口",
+   "display": "Chūkǒu",
+   "pinyin": "chū kǒu",
+   "zhuyin": "ㄔㄨ ㄎㄡˇ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     5
+    ]
+   ],
+   "english": "Exit",
+   "rank": 170,
+   "hear": true
+  },
+  {
+   "hanzi": "入口",
+   "display": "Rùkǒu",
+   "pinyin": "rù kǒu",
+   "zhuyin": "ㄖㄨˋ ㄎㄡˇ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     4
+    ]
+   ],
+   "english": "Entrance",
+   "rank": 171,
+   "hear": true
+  },
+  {
+   "hanzi": "可以便宜一點嗎？",
+   "display": "Kěyǐ piányí yīdiǎn ma?",
+   "pinyin": "kě yǐ pián yí yī diǎn ma",
+   "zhuyin": "ㄎㄜˇ ㄧˇ ㄆㄧㄢˊ ㄧˊ ㄧ ㄉㄧㄢˇ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     5,
+     8
+    ],
+    [
+     9,
+     10
+    ],
+    [
+     12,
+     13
+    ],
+    [
+     14,
+     17
+    ],
+    [
+     19,
+     20
+    ]
+   ],
+   "english": "Could you make it a bit cheaper?",
+   "rank": 172,
+   "note": "at market stalls only"
+  },
+  {
+   "hanzi": "我只是看看",
+   "display": "Wǒ zhǐshì kànkan",
+   "pinyin": "wǒ zhǐ shì kàn kan",
+   "zhuyin": "ㄨㄛˇ ㄓˇ ㄕˋ ㄎㄢˋ ˙ㄎㄢ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     6,
+     8
+    ],
+    [
+     10,
+     12
+    ],
+    [
+     13,
+     15
+    ]
+   ],
+   "english": "I'm just looking",
+   "rank": 173
+  },
+  {
+   "hanzi": "有大一點的嗎？",
+   "display": "Yǒu dà yīdiǎn de ma?",
+   "pinyin": "yǒu dà yī diǎn de ma",
+   "zhuyin": "ㄧㄡˇ ㄉㄚˋ ㄧ ㄉㄧㄢˇ ˙ㄉㄜ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     9,
+     12
+    ],
+    [
+     14,
+     15
+    ],
+    [
+     17,
+     18
+    ]
+   ],
+   "english": "Do you have a bigger one?",
+   "rank": 174
+  },
+  {
+   "hanzi": "有別的顏色嗎？",
+   "display": "Yǒu bié de yánsè ma?",
+   "pinyin": "yǒu bié de yán sè ma",
+   "zhuyin": "ㄧㄡˇ ㄅㄧㄝˊ ˙ㄉㄜ ㄧㄢˊ ㄙㄜˋ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     11,
+     13
+    ],
+    [
+     14,
+     15
+    ],
+    [
+     17,
+     18
+    ]
+   ],
+   "english": "Do you have other colours?",
+   "rank": 175
+  },
+  {
+   "hanzi": "可以試穿嗎？",
+   "display": "Kěyǐ shìchuān ma?",
+   "pinyin": "kě yǐ shì chuān ma",
+   "zhuyin": "ㄎㄜˇ ㄧˇ ㄕˋ ㄔㄨㄢ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     8,
+     12
+    ],
+    [
+     14,
+     15
+    ]
+   ],
+   "english": "Can I try it on?",
+   "rank": 176
+  },
+  {
+   "hanzi": "可以退稅嗎？",
+   "display": "Kěyǐ tuìshuì ma?",
+   "pinyin": "kě yǐ tuì shuì ma",
+   "zhuyin": "ㄎㄜˇ ㄧˇ ㄊㄨㄟˋ ㄕㄨㄟˋ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     8,
+     11
+    ],
+    [
+     13,
+     14
+    ]
+   ],
+   "english": "Can I get a tax refund?",
+   "rank": 177
+  },
+  {
+   "hanzi": "打八折",
+   "display": "Dǎ bā zhé",
+   "pinyin": "dǎ bā zhé",
+   "zhuyin": "ㄉㄚˇ ㄅㄚ ㄓㄜˊ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     6,
+     8
+    ]
+   ],
+   "english": "20% off",
+   "rank": 178,
+   "note": "literally \"pay eight tenths\": 八折 (bā zhé) means you pay 80%",
+   "hear": true
+  },
+  {
+   "hanzi": "我有訂房",
+   "display": "Wǒ yǒu dìngfáng",
+   "pinyin": "wǒ yǒu dìng fáng",
+   "zhuyin": "ㄨㄛˇ ㄧㄡˇ ㄉㄧㄥˋ ㄈㄤˊ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     10
+    ],
+    [
+     11,
+     14
+    ]
+   ],
+   "english": "I have a reservation",
+   "rank": 179
+  },
+  {
+   "hanzi": "我要退房",
+   "display": "Wǒ yào tuìfáng",
+   "pinyin": "wǒ yào tuì fáng",
+   "zhuyin": "ㄨㄛˇ ㄧㄠˋ ㄊㄨㄟˋ ㄈㄤˊ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     9
+    ],
+    [
+     10,
+     13
+    ]
+   ],
+   "english": "I'd like to check out",
+   "rank": 180
+  },
+  {
+   "hanzi": "可以寄放行李嗎？",
+   "display": "Kěyǐ jìfàng xínglǐ ma?",
+   "pinyin": "kě yǐ jì fàng xíng lǐ ma",
+   "zhuyin": "ㄎㄜˇ ㄧˇ ㄐㄧˋ ㄈㄤˋ ㄒㄧㄥˊ ㄌㄧˇ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     7,
+     10
+    ],
+    [
+     12,
+     15
+    ],
+    [
+     16,
+     17
+    ],
+    [
+     19,
+     20
+    ]
+   ],
+   "english": "Can I leave my luggage here?",
+   "rank": 181
+  },
+  {
+   "hanzi": "無線網路密碼是什麼？",
+   "display": "Wúxiàn wǎnglù mìmǎ shì shénme?",
+   "pinyin": "wú xiàn wǎng lù mì mǎ shì shén me",
+   "zhuyin": "ㄨˊ ㄒㄧㄢˋ ㄨㄤˇ ㄌㄨˋ ㄇㄧˋ ㄇㄚˇ ㄕˋ ㄕㄣˊ ˙ㄇㄜ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     5
+    ],
+    [
+     7,
+     10
+    ],
+    [
+     11,
+     12
+    ],
+    [
+     14,
+     15
+    ],
+    [
+     16,
+     17
+    ],
+    [
+     19,
+     21
+    ],
+    [
+     23,
+     26
+    ],
+    [
+     27,
+     28
+    ]
+   ],
+   "english": "What's the Wi-Fi password?",
+   "rank": 182,
+   "note": "people also just say \"Wi-Fi 密碼\" (Wi-Fi mìmǎ)"
+  },
+  {
+   "hanzi": "幾點吃早餐？",
+   "display": "Jǐ diǎn chī zǎocān?",
+   "pinyin": "jǐ diǎn chī zǎo cān",
+   "zhuyin": "ㄐㄧˇ ㄉㄧㄢˇ ㄔ ㄗㄠˇ ㄘㄢ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     8,
+     10
+    ],
+    [
+     12,
+     14
+    ],
+    [
+     15,
+     17
+    ]
+   ],
+   "english": "What time is breakfast?",
+   "rank": 183
+  },
+  {
+   "hanzi": "冷氣壞了",
+   "display": "Lěngqì huài le",
+   "pinyin": "lěng qì huài le",
+   "zhuyin": "ㄌㄥˇ ㄑㄧˋ ㄏㄨㄞˋ ˙ㄌㄜ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     7,
+     10
+    ],
+    [
+     12,
+     13
+    ]
+   ],
+   "english": "The air conditioning is broken",
+   "rank": 184
+  },
+  {
+   "hanzi": "可以給我毛巾嗎？",
+   "display": "Kěyǐ gěi wǒ máojīn ma?",
+   "pinyin": "kě yǐ gěi wǒ máo jīn ma",
+   "zhuyin": "ㄎㄜˇ ㄧˇ ㄍㄟˇ ㄨㄛˇ ㄇㄠˊ ㄐㄧㄣ ˙ㄇㄚ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     9,
+     10
+    ],
+    [
+     12,
+     14
+    ],
+    [
+     15,
+     17
+    ],
+    [
+     19,
+     20
+    ]
+   ],
+   "english": "Could I have a towel?",
+   "rank": 185
+  },
+  {
+   "hanzi": "請給我護照",
+   "display": "Qǐng gěi wǒ hùzhào",
+   "pinyin": "qǐng gěi wǒ hù zhào",
+   "zhuyin": "ㄑㄧㄥˇ ㄍㄟˇ ㄨㄛˇ ㄏㄨˋ ㄓㄠˋ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     9,
+     10
+    ],
+    [
+     12,
+     13
+    ],
+    [
+     14,
+     17
+    ]
+   ],
+   "english": "Your passport, please",
+   "rank": 186,
+   "hear": true
+  },
+  {
+   "hanzi": "十一點退房",
+   "display": "Shíyī diǎn tuìfáng",
+   "pinyin": "shí yī diǎn tuì fáng",
+   "zhuyin": "ㄕˊ ㄧ ㄉㄧㄢˇ ㄊㄨㄟˋ ㄈㄤˊ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     6,
+     9
+    ],
+    [
+     11,
+     13
+    ],
+    [
+     14,
+     17
+    ]
+   ],
+   "english": "Check-out is at 11",
+   "rank": 187,
+   "hear": true
+  },
+  {
+   "hanzi": "押金",
+   "display": "Yājīn",
+   "pinyin": "yā jīn",
+   "zhuyin": "ㄧㄚ ㄐㄧㄣ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     4
+    ]
+   ],
+   "english": "Deposit",
+   "rank": 188,
+   "hear": true
+  },
+  {
+   "hanzi": "救命！",
+   "display": "Jiùmìng!",
+   "pinyin": "jiù mìng",
+   "zhuyin": "ㄐㄧㄡˋ ㄇㄧㄥˋ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "english": "Help!",
+   "rank": 189
+  },
+  {
+   "hanzi": "請叫救護車",
+   "display": "Qǐng jiào jiùhùchē",
+   "pinyin": "qǐng jiào jiù hù chē",
+   "zhuyin": "ㄑㄧㄥˇ ㄐㄧㄠˋ ㄐㄧㄡˋ ㄏㄨˋ ㄔㄜ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     5,
+     8
+    ],
+    [
+     10,
+     12
+    ],
+    [
+     13,
+     14
+    ],
+    [
+     15,
+     17
+    ]
+   ],
+   "english": "Please call an ambulance",
+   "rank": 190
+  },
+  {
+   "hanzi": "我需要醫生",
+   "display": "Wǒ xūyào yīshēng",
+   "pinyin": "wǒ xū yào yī shēng",
+   "zhuyin": "ㄨㄛˇ ㄒㄩ ㄧㄠˋ ㄧ ㄕㄥ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     9,
+     10
+    ],
+    [
+     11,
+     15
+    ]
+   ],
+   "english": "I need a doctor",
+   "rank": 191
+  },
+  {
+   "hanzi": "我不舒服",
+   "display": "Wǒ bù shūfu",
+   "pinyin": "wǒ bù shū fu",
+   "zhuyin": "ㄨㄛˇ ㄅㄨˋ ㄕㄨ ˙ㄈㄨ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     6,
+     8
+    ],
+    [
+     9,
+     10
+    ]
+   ],
+   "english": "I don't feel well",
+   "rank": 192
+  },
+  {
+   "hanzi": "我頭痛",
+   "display": "Wǒ tóutòng",
+   "pinyin": "wǒ tóu tòng",
+   "zhuyin": "ㄨㄛˇ ㄊㄡˊ ㄊㄨㄥˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     6,
+     9
+    ]
+   ],
+   "english": "I have a headache",
+   "rank": 193
+  },
+  {
+   "hanzi": "我肚子痛",
+   "display": "Wǒ dùzi tòng",
+   "pinyin": "wǒ dù zi tòng",
+   "zhuyin": "ㄨㄛˇ ㄉㄨˋ ˙ㄗ ㄊㄨㄥˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     8,
+     11
+    ]
+   ],
+   "english": "I have a stomach ache",
+   "rank": 194
+  },
+  {
+   "hanzi": "我發燒了",
+   "display": "Wǒ fāshāo le",
+   "pinyin": "wǒ fā shāo le",
+   "zhuyin": "ㄨㄛˇ ㄈㄚ ㄕㄠ ˙ㄌㄜ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     5,
+     8
+    ],
+    [
+     10,
+     11
+    ]
+   ],
+   "english": "I have a fever",
+   "rank": 195
+  },
+  {
+   "hanzi": "我過敏",
+   "display": "Wǒ guòmǐn",
+   "pinyin": "wǒ guò mǐn",
+   "zhuyin": "ㄨㄛˇ ㄍㄨㄛˋ ㄇㄧㄣˇ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     6,
+     8
+    ]
+   ],
+   "english": "I have an allergy",
+   "rank": 196
+  },
+  {
+   "hanzi": "藥局在哪裡？",
+   "display": "Yàojú zài nǎlǐ?",
+   "pinyin": "yào jú zài nǎ lǐ",
+   "zhuyin": "ㄧㄠˋ ㄐㄩˊ ㄗㄞˋ ㄋㄚˇ ㄌㄧˇ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     6,
+     8
+    ],
+    [
+     10,
+     11
+    ],
+    [
+     12,
+     13
+    ]
+   ],
+   "english": "Where's a pharmacy?",
+   "rank": 197
+  },
+  {
+   "hanzi": "醫院",
+   "display": "Yīyuàn",
+   "pinyin": "yī yuàn",
+   "zhuyin": "ㄧ ㄩㄢˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     5
+    ]
+   ],
+   "english": "Hospital",
+   "rank": 198
+  },
+  {
+   "hanzi": "我的錢包不見了",
+   "display": "Wǒ de qiánbāo bùjiàn le",
+   "pinyin": "wǒ de qián bāo bù jiàn le",
+   "zhuyin": "ㄨㄛˇ ˙ㄉㄜ ㄑㄧㄢˊ ㄅㄠ ㄅㄨˋ ㄐㄧㄢˋ ˙ㄌㄜ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     6,
+     9
+    ],
+    [
+     10,
+     12
+    ],
+    [
+     14,
+     15
+    ],
+    [
+     16,
+     19
+    ],
+    [
+     21,
+     22
+    ]
+   ],
+   "english": "I've lost my wallet",
+   "rank": 199
+  },
+  {
+   "hanzi": "哪裡不舒服？",
+   "display": "Nǎlǐ bù shūfu?",
+   "pinyin": "nǎ lǐ bù shū fu",
+   "zhuyin": "ㄋㄚˇ ㄌㄧˇ ㄅㄨˋ ㄕㄨ ˙ㄈㄨ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     8,
+     10
+    ],
+    [
+     11,
+     12
+    ]
+   ],
+   "english": "What's wrong?",
+   "rank": 200,
+   "note": "literally \"where don't you feel well?\"",
+   "hear": true
+  },
+  {
+   "hanzi": "一天三次",
+   "display": "Yī tiān sān cì",
+   "pinyin": "yī tiān sān cì",
+   "zhuyin": "ㄧ ㄊㄧㄢ ㄙㄢ ㄘˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     8,
+     10
+    ],
+    [
+     12,
+     13
+    ]
+   ],
+   "english": "Three times a day",
+   "rank": 201,
+   "hear": true
+  },
+  {
+   "hanzi": "飯後吃",
+   "display": "Fàn hòu chī",
+   "pinyin": "fàn hòu chī",
+   "zhuyin": "ㄈㄢˋ ㄏㄡˋ ㄔ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     8,
+     10
+    ]
+   ],
+   "english": "Take after meals",
+   "rank": 202,
+   "hear": true
+  },
+  {
+   "hanzi": "好喔",
+   "display": "Hǎo ō",
+   "pinyin": "hǎo ō",
+   "zhuyin": "ㄏㄠˇ ㄛ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     4
+    ]
+   ],
+   "english": "OK!",
+   "rank": 203,
+   "note": "friendlier than a plain 好 (hǎo)"
+  },
+  {
+   "hanzi": "對啊",
+   "display": "Duì a",
+   "pinyin": "duì a",
+   "zhuyin": "ㄉㄨㄟˋ ˙ㄚ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     4
+    ]
+   ],
+   "english": "Yeah, right",
+   "rank": 204
+  },
+  {
+   "hanzi": "真的假的？",
+   "display": "Zhēn de jiǎ de?",
+   "pinyin": "zhēn de jiǎ de",
+   "zhuyin": "ㄓㄣ ˙ㄉㄜ ㄐㄧㄚˇ ˙ㄉㄜ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     8,
+     10
+    ],
+    [
+     12,
+     13
+    ]
+   ],
+   "english": "Seriously? No way!",
+   "rank": 205,
+   "note": "literally \"real or fake?\""
+  },
+  {
+   "hanzi": "沒差",
+   "display": "Méi chā",
+   "pinyin": "méi chā",
+   "zhuyin": "ㄇㄟˊ ㄔㄚ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "english": "Doesn't matter; either is fine",
+   "rank": 206
+  },
+  {
+   "hanzi": "不會啦",
+   "display": "Bù huì la",
+   "pinyin": "bù huì la",
+   "zhuyin": "ㄅㄨˋ ㄏㄨㄟˋ ˙ㄌㄚ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     7,
+     8
+    ]
+   ],
+   "english": "No problem!",
+   "rank": 207,
+   "note": "the usual reply to 謝謝 (xiè xie) or 不好意思 (bù hǎo yì si); said búhuì la"
+  },
+  {
+   "hanzi": "沒關係啦",
+   "display": "Méi guānxi la",
+   "pinyin": "méi guān xi la",
+   "zhuyin": "ㄇㄟˊ ㄍㄨㄢ ˙ㄒㄧ ˙ㄌㄚ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     7
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     11,
+     12
+    ]
+   ],
+   "english": "It's fine, don't worry",
+   "rank": 208
+  },
+  {
+   "hanzi": "超好吃",
+   "display": "Chāo hǎochī",
+   "pinyin": "chāo hǎo chī",
+   "zhuyin": "ㄔㄠ ㄏㄠˇ ㄔ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     8,
+     10
+    ]
+   ],
+   "english": "Super tasty",
+   "rank": 209,
+   "note": "超 (chāo) = super, in front of anything"
+  },
+  {
+   "hanzi": "讚",
+   "display": "Zàn",
+   "pinyin": "zàn",
+   "zhuyin": "ㄗㄢˋ",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "english": "Great!",
+   "rank": 210,
+   "note": "also the \"like\" button"
+  },
+  {
+   "hanzi": "好險",
+   "display": "Hǎo xiǎn",
+   "pinyin": "hǎo xiǎn",
+   "zhuyin": "ㄏㄠˇ ㄒㄧㄢˇ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     7
+    ]
+   ],
+   "english": "Phew, that was close",
+   "rank": 211
+  },
+  {
+   "hanzi": "加油",
+   "display": "Jiāyóu",
+   "pinyin": "jiā yóu",
+   "zhuyin": "ㄐㄧㄚ ㄧㄡˊ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     5
+    ]
+   ],
+   "english": "You can do it!",
+   "rank": 212,
+   "note": "literally \"add oil\"; for exams, games, hard work"
+  },
+  {
+   "hanzi": "辛苦了",
+   "display": "Xīnkǔ le",
+   "pinyin": "xīn kǔ le",
+   "zhuyin": "ㄒㄧㄣ ㄎㄨˇ ˙ㄌㄜ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "english": "Thanks for your hard work",
+   "rank": 213,
+   "note": "said to staff, drivers and colleagues"
+  },
+  {
+   "hanzi": "哩賀",
+   "display": "Lǐ hè",
+   "pinyin": "lǐ hè",
+   "zhuyin": "ㄌㄧˇ ㄏㄜˋ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     4
+    ]
+   ],
+   "english": "Hello",
+   "rank": 214,
+   "note": "Taiwanese lí-hó, written with Mandarin sounds"
+  },
+  {
+   "hanzi": "歹勢",
+   "display": "Dǎi shì",
+   "pinyin": "dǎi shì",
+   "zhuyin": "ㄉㄞˇ ㄕˋ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "english": "Sorry, my bad",
+   "rank": 215,
+   "note": "Taiwanese pháinn-sè; very common, also in Mandarin"
+  },
+  {
+   "hanzi": "母湯",
+   "display": "Mǔ tāng",
+   "pinyin": "mǔ tāng",
+   "zhuyin": "ㄇㄨˇ ㄊㄤ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "english": "No way; don't!",
+   "rank": 216,
+   "note": "Taiwanese m̄-thang, \"mustn't\""
+  },
+  {
+   "hanzi": "古錐",
+   "display": "Gǔ zhuī",
+   "pinyin": "gǔ zhuī",
+   "zhuyin": "ㄍㄨˇ ㄓㄨㄟ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "english": "Cute",
+   "rank": 217,
+   "note": "Taiwanese kóo-tsui"
+  },
+  {
+   "hanzi": "水喔",
+   "display": "Shuǐ ō",
+   "pinyin": "shuǐ ō",
+   "zhuyin": "ㄕㄨㄟˇ ㄛ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     5,
+     5
+    ]
+   ],
+   "english": "Great! Beautiful!",
+   "rank": 218,
+   "note": "Taiwanese suí, \"pretty\""
+  },
+  {
+   "hanzi": "呷飽沒？",
+   "display": "Jiā bǎo méi?",
+   "pinyin": "jiā bǎo méi",
+   "zhuyin": "ㄐㄧㄚ ㄅㄠˇ ㄇㄟˊ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     8,
+     10
+    ]
+   ],
+   "english": "Have you eaten?",
+   "rank": 219,
+   "note": "a Taiwanese greeting, not a real question; answer 吃飽了 (chī bǎo le)",
+   "hear": true
+  },
+  {
+   "hanzi": "蛤？",
+   "display": "Há?",
+   "pinyin": "há",
+   "zhuyin": "ㄏㄚˊ",
+   "spans": [
+    [
+     0,
+     1
+    ]
+   ],
+   "english": "Huh? What?",
+   "rank": 220,
+   "note": "when someone didn't hear you, or can't believe it",
+   "hear": true
+  },
+  {
+   "hanzi": "欸",
+   "display": "Éi",
+   "pinyin": "éi",
+   "zhuyin": "ㄟˊ",
+   "spans": [
+    [
+     0,
+     1
+    ]
+   ],
+   "english": "Hey",
+   "rank": 221,
+   "note": "to get your attention",
+   "hear": true
+  },
+  {
+   "hanzi": "齁",
+   "display": "Hō",
+   "pinyin": "hō",
+   "zhuyin": "ㄏㄛ",
+   "spans": [
+    [
+     0,
+     1
+    ]
+   ],
+   "english": "…right?",
+   "rank": 222,
+   "note": "at the end of a sentence, asking you to agree",
+   "hear": true
+  },
+  {
+   "hanzi": "傻眼",
+   "display": "Shǎyǎn",
+   "pinyin": "shǎ yǎn",
+   "zhuyin": "ㄕㄚˇ ㄧㄢˇ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     5
+    ]
+   ],
+   "english": "I'm speechless",
+   "rank": 223,
+   "note": "stunned, in a bad or funny way",
+   "hear": true
+  },
+  {
+   "hanzi": "笑死",
+   "display": "Xiào sǐ",
+   "pinyin": "xiào sǐ",
+   "zhuyin": "ㄒㄧㄠˋ ㄙˇ",
+   "spans": [
+    [
+     0,
+     3
+    ],
+    [
+     5,
+     6
+    ]
+   ],
+   "english": "LOL; I'm dying",
+   "rank": 224,
+   "note": "literally \"laugh to death\"",
+   "hear": true
+  },
+  {
+   "hanzi": "夭壽",
+   "display": "Yāoshòu",
+   "pinyin": "yāo shòu",
+   "zhuyin": "ㄧㄠ ㄕㄡˋ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "english": "Oh my god!",
+   "rank": 225,
+   "note": "Taiwanese iáu-siū, for shock; can sound rude to older people",
+   "hear": true
+  },
+  {
+   "hanzi": "靠北",
+   "display": "Kàoběi",
+   "pinyin": "kào běi",
+   "zhuyin": "ㄎㄠˋ ㄅㄟˇ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     5
+    ]
+   ],
+   "english": "Damn!",
+   "rank": 226,
+   "note": "rude; from Taiwanese khàu-pē. Fine among close friends, rude anywhere else",
+   "hear": true
+  },
+  {
+   "hanzi": "媽的",
+   "display": "Mā de",
+   "pinyin": "mā de",
+   "zhuyin": "ㄇㄚ ˙ㄉㄜ",
+   "spans": [
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     4
+    ]
+   ],
+   "english": "Damn it!",
+   "rank": 227,
+   "note": "rude; muttered when annoyed. Not for strangers or work",
+   "hear": true
+  },
+  {
+   "hanzi": "北七",
+   "display": "Běiqī",
+   "pinyin": "běi qī",
+   "zhuyin": "ㄅㄟˇ ㄑㄧ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     4
+    ]
+   ],
+   "english": "Idiot",
+   "rank": 228,
+   "note": "rude; a Taiwanese-flavoured 白痴 (bái chī). Friends tease each other with it; to anyone else it's an insult",
+   "hear": true
+  },
+  {
+   "hanzi": "三小",
+   "display": "Sānxiǎo",
+   "pinyin": "sān xiǎo",
+   "zhuyin": "ㄙㄢ ㄒㄧㄠˇ",
+   "spans": [
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "english": "What the hell?",
+   "rank": 229,
+   "note": "very rude and aggressive; from Taiwanese siánn-siâu. Often a sign someone's about to argue",
+   "hear": true
+  },
+  {
+   "hanzi": "幹",
+   "display": "Gàn",
+   "pinyin": "gàn",
+   "zhuyin": "ㄍㄢˋ",
+   "spans": [
+    [
+     0,
+     2
+    ]
+   ],
+   "english": "F***!",
+   "rank": 230,
+   "note": "very rude; from Taiwanese kàn. Never with strangers, in shops or at work",
+   "hear": true
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "華語練習 Taiwan Mandarin",
+  "short_name": "華語練習",
+  "description": "Learn Mandarin as it's spoken in Taiwan, from first words to fluent: flashcards, graded reading, grammar, quizzes, a beginner phrasebook, Taiwanese (台語), slang and culture.",
+  "lang": "zh-Hant-TW",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f9f8fd",
+  "theme_color": "#f9f8fd",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

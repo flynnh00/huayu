@@ -1,0 +1,84 @@
+{
+  "about": "Short release notes for the Android app's update popup, newest first. A few bullets per version; the full notes are in VERSIONS.md. Add the new version here with each release.",
+  "versions": [
+    {
+      "code": 27,
+      "name": "1.26",
+      "title": "Practice sheets, Undo, and flashcards for tablets",
+      "notes": [
+        "Print practice sheets with squares to write in (⋮ → Practice sheet), or save them as PDF",
+        "Flashcards: Undo brings back the card you just rated",
+        "Tablets and landscape: characters on the left, meaning and examples on the right"
+      ]
+    },
+    {
+      "code": 26,
+      "name": "1.25",
+      "title": "Choose your tone colours",
+      "notes": ["Setting up the full app starts by choosing tone colours, with red · green · blue · purple recommended"]
+    },
+    {
+      "code": 25,
+      "name": "1.24",
+      "title": "New icon",
+      "notes": ["The app icon shows 華, the first character of 華語練習"]
+    },
+    {
+      "code": 24,
+      "name": "1.23",
+      "title": "A fairer first choice",
+      "notes": ["First launch: beginner mode and the full app are two equal choices, each listing what it includes"]
+    },
+    {
+      "code": 23,
+      "name": "1.22",
+      "title": "Measure words and a better grammar quiz",
+      "notes": [
+        "Grammar: a new 量詞 Measure words section, with tables and its own quiz",
+        "Grammar quiz: wrong options are now words of the same kind, so you have to think",
+        "Beginner mode: a banner with a button to switch to the full app",
+        "This popup: release notes for every version you've missed"
+      ]
+    },
+    {
+      "code": 22,
+      "name": "1.21",
+      "title": "New Culture tile",
+      "notes": ["The Culture tile shows 臺 (Taiwan), since Culture now holds slang, Taiwanese and history too"]
+    },
+    {
+      "code": 21,
+      "name": "1.20",
+      "title": "Steadier reading filters",
+      "notes": ["Reading: the filters are three equal buttons that stay in place"]
+    },
+    {
+      "code": 20,
+      "name": "1.19",
+      "title": "Engineering levels and Dark grey",
+      "notes": [
+        "Reading: engineering passages have their own level menu",
+        "Options → Appearance: a new Dark grey theme"
+      ]
+    },
+    {
+      "code": 19,
+      "name": "1.18",
+      "title": "Colloquial phrasebook for beginners",
+      "notes": [
+        "Beginner mode: a Colloquial tile with 25 everyday Taiwan phrases",
+        "Numbers and money moved into the Phrasebook"
+      ]
+    },
+    {
+      "code": 18,
+      "name": "1.17",
+      "title": "Reading",
+      "notes": [
+        "New: Reading, 110 short passages at every level, with questions afterwards",
+        "Culture has tabs: food and culture, 口語 Colloquial, 台語 Taiwanese and History",
+        "174 colloquial words and a Taiwanese pronunciation guide"
+      ]
+    }
+  ]
+}
